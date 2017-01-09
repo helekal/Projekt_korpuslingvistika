@@ -1,6 +1,0 @@
-<sone id="l5_s9" lemma="kes" liik="Intr" tahendus="mis" vorm="sg.kom.">*kellega</sone>
-<sone id="l43_s61" lemma="kes" liik="Intr" tahendus="mis" vorm="sg.kom.">kellega</sone>
-<sone id="l137_s47" lemma="kes" liik="Intr" tahendus="mis" vorm="sg.kom.">*kellega</sone>
-<sone id="l31_s31" lemma="kes" liik="Intr" tahendus="mis" vorm="sg.kom.">*kellega</sone>
-<sone id="l48_s25" lemma="kes" liik="Intr" tahendus="mis" vorm="sg.kom.">*kellega</sone>
-<sone id="l146_s55" lemma="kes" liik="Intr" tahendus="mis" vorm="sg.kom.">*kellega</sone>
