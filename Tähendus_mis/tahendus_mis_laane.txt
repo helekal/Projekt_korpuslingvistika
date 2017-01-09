@@ -1,3 +1,0 @@
-<sone id="l60_s3" lemma="kes" liik="ProS" tahendus="mis" vorm="sg.kom.">kellega</sone>
-<sone id="l64_s232" lemma="kes" liik="Intr" tahendus="mis" vorm="sg.el.">kellest</sone>
-<sone id="l64_s254" lemma="kes" liik="Intr" tahendus="mis" vorm="sg.part.">kedä</sone>
