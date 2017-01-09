@@ -1,0 +1,62 @@
+Korpuslingvistika projekti "Relatiivpronoomeni kes kasutus eesti murretes" lisa
+Skriptide kasutamine
+Helen Kaljumäe ja Hanna Pook
+
+
+Enne kõikide skriptide kasutamist tuleb anda endale nende kasutamiseks õigused käsuga:
+chmod u+x skriptinimi.sh
+
+Skripte saab käivitada failidel järgneva käsuga:
+cat failinimi.txt | ./skriptinimi.sh
+Sealjuures peab asuma samas kaustas, kus on ka skript ja fail.
+
+Juhul kui skripti tahetakse läbi viia kõigil kaustal olevatel failidel (st tsüklilise skripti kasutus), on käsk järgmine: 
+./skriptinimi
+Ka selles olukorras peab asuma samas kaustas, kus on failid ja skript.
+
+
+
+Projekti algandmestik koosneb kümnest kaustast, millest igaüks sisaldab ühe murde keelejuhtide litereeritud salvestusi, nii et iga keelejuhi jaoks on eraldi XML-fail (mõnel keelejuhil on ka mitu faili).
+
+
+
+Esimesena tuleb käivitada skript kes_loend. Tegemist on tsüklilise skriptiga, mis võtab ühes kaustas olevast igast failist välja sõnad, mille lemma märgend on 'kes' ja salvestab need iga faili puhul uude TXT-faili, nii et üks sõna on ühel real. See skript tuleb käivitada kümme korda, st iga murde tekstide kaustas.
+
+Edasi on iga murde puhul keelejuhtide eraldi failid ühendatud üheks failiks käsuga:
+cat *.txt > kes_loend_murre.txt
+See lihtsustab edasist analüüsi, kus tahetakse võrrelda omavahel murdeid, kuid mitte keelejuhte.
+
+Järgmisena tuleb saadud kes_loend_murre.txt failidel (mida on kümme, üks iga murde kohta) käivitada skript kes_sagedusloend.sh. See skript jätab igale reale alles vaid sõna 'kes' käände- ja arvumärgistuse ning seejärel koondab saadud tulemused sagedusloendisse, mille nimetused on vastavalt murdele kes_sagedus_murre.txt.
+
+Nende skriptidega saadud tulemusi on projektis analüüsitud peatükis 2.1.
+
+
+
+Järgmise etapina on vaja käivitada tsükliline skript kes_uhendid.sh. Seda tuleb teha taaskord igas murdetekstide kaustas eraldi, st kümme korda. See skript moodustab sõnapaarid üksteisele järgnevatest sõnadest, mille üheks osaks on sõna 'kes' ükskõik milline vorm ja teeb nendest sõnapaaridest iga keelejuhi puhul uue TXT-faili. Sealjuures võib 'kes' olla nii sõnapaari esimene kui ka teine liige.
+
+Siis on jälle iga murde puhul keelejuhtide eraldi failid üheks failiks koondatud käsuga:
+cat *.txt > kes_uhendid_murre.txt
+
+Lõpuks on vaja saadud kes_uhendid_murre.txt failidel (mida on taas kümme) käivitada skript kes_eelnev_sõna.sh, mis jätab alles vaid need sõnapaarid, kus 'kes' on teine liige, kustutab siis kõik peale pronoomenile 'kes' eelnenud sõna ning moodustab saadud sõnadest sagedusloendi. Tulemuseks on kümme sagedusloendit nimetustega kes_eelnev_sona_murre.txt.
+
+Projektis on edasi uuritud märgendit tähendus=mis. Selle jaoks on jälle iga murde kaustas vaja käivitada tsükliline skript tahendus_mis.sh, mis leiab kõikidest XML-failidest need sõnad, millele on lisatud märgend 'tahendus="mis"' ja salvestab need iga keelejuhi jaoks eraldi TXT-faili. Sealjuures ei pruukinud iga keelejuhi tekstides seda märgendit esineda ja seega olid paljud failid tühjad. Keelejuhtide failid on koondatud murrete kaupa üheks failiks käsuga:
+cat *.txt > tahendus_mis_murre.txt
+Ka nende saadud kümne faili puhul ei pruukinud mõnes murdes seda märgendit olla, seega osad nendest failidest on tühjad. Edasi on nendel failidel käivitatud skript tahendus_mis_arv.sh, mis loeb kokku igas failis olevate ridade arvu (seega märgendi tähendus=mis arvu igas murdes).
+
+Nende skriptidega saadud tulemusi on projektis analüüsitud peatükis 2.2.
+
+
+
+Kolmas etapp on z-skooride ja t-skooride arvutamine. Need skoorid on arvutatud ainult keskmurde jaoks, seega kõigepealt on kõik keskmurde tekstid XML-failides ühendatud üheks TXT-failiks käsuga:
+cat *.xml > tekstid_koos_kesk.txt
+Sellel failil on omakorda käivitatud skript korpusesuurus.sh, mis loeb kokku kõik keskmurde tekstides esinevad sõnad (sealjuures arvab sõnade hulgast välja vahemärgid ja muu metainfo) ja väljastab sõnade arvu.
+
+Edasi on vaja leida sõnade 'kes', 'see' ja 'mis' esinemissagedused keskmurdes. Nende leidmiseks tuleb failil tekstid_koos_kesk.txt käivitada skriptid kes_arv.sh, see_arv.sh ja mis_arv.sh, mis väljastavad vastavalt 'kes', 'see' või 'mis' esinemissageduse.
+
+Lõpuks on skooride arvutamiseks vaja leida ka sõnapaaride 'kes+see' ja 'mis+see' esinemissagedused. Mõlema sõnapaari puhul on aknaks valitud ainult üksteisele järgnevad sõnad. Esimese sõnapaari sageduseks on kasutatud juba eelnevalt leitud faili kes_uhendid_kesk.txt, millele on rakendatud skript kes_see_arv.sh. Kuna failis kes_uhendid_kesk.txt on juba kõikides sõnapaarides 'kes' sees, on selle skriptiga leitud need paarid, kus lisaks kes-ile on ka sõna 'see'. Väljastatakse selliste sõnapaaride arv.
+
+Sõnapaari 'mis+see' jaoks on vaja eelnevalt moodustada samasugune tekstifail, mis koosneb sõna 'mis' sisaldavatest sõnapaaridest. Selleks on keskmurde tekstide kaustale rakendatud tsüklilist skripti mis_uhendid.sh, mis koostab iga teksti jaoks üksteisele järgnevate sõnapaaride loendi, jättes seejärel alles need sõnapaarid, mille üheks liikmeks on sõna 'mis'. Saadud sõnapaaride loendid, mis on pärast eelmist skripti iga keelejuhi puhul eraldi, on koondatud üheks failiks kokku käsuga:
+cat *.txt > mis_uhendid_kesk.txt.
+Sellele failile on omakorda rakendatud skripti mis_see_arv.sh, mis loeb kokku kõik sõnapaarid, kus on lisaks mis-ile ka sõna 'see', ja väljastab nende arvu.
+
+Sõnadevaheliste seoste skooride tulemusi on projektis analüüsitud peatükis 2.3.
