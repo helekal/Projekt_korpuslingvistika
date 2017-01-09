@@ -1,7 +1,0 @@
-    232 sg.nom.
-     73 sg.ad.
-      9 sg.part.
-      8 sg.kom.
-      5 sg.all.
-      4 pl.nom.
-      2 sg.gen.
