@@ -1,8 +1,0 @@
-    245 sg.nom.
-     49 sg.ad.
-     32 sg.kom.
-     18 pl.nom.
-     12 sg.gen.
-     10 sg.part.
-      9 sg.el.
-      2 sg.all.
