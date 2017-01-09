@@ -1,5 +1,0 @@
-<sone id="l275_s59" lemma="kes" liik="Intr" tahendus="mis" vorm="sg.gen.">kelle</sone>
-<sone id="l304_s6" lemma="kes" liik="Intr" tahendus="mis" vorm="sg.kom.">kellega</sone>
-<sone id="l304_s9" lemma="kes" liik="Intr" tahendus="mis" vorm="sg.kom.">kellega</sone>
-<sone id="l396_s20" lemma="kes" liik="Intr" tahendus="mis" vorm="sg.kom.">kellega</sone>
-<sone id="l423_s9" lemma="kes" liik="Intr" tahendus="mis" vorm="sg.el.">kellest</sone>
