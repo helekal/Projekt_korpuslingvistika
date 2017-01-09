@@ -1,0 +1,1194 @@
+<sone id="l19_s9" lemma="seal" liik="ProAdv">sääl</sone> <sone id="l19_s11" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l19_s11" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l19_s12" lemma="muidugi" liik="Par">muidugid</sone>
+<sone id="l1_s274" lemma="ning" liik="Konj">ning</sone> <sone id="l1_s276" lemma="kes" liik="Intr" vorm="pl.nom.">kes</sone>
+<sone id="l1_s276" lemma="kes" liik="Intr" vorm="pl.nom.">kes</sone> <sone id="l1_s278" lemma="seal" liik="ProAdv">sääl</sone>
+<sone id="l1_s673" lemma="kirstu+mees" liik="S" vorm="pl.nom.">kerstu+mehed</sone> <sone id="l1_s675" lemma="kes" liik="Intr" vorm="pl.nom.">kes</sone>
+<sone id="l1_s675" lemma="kes" liik="Intr" vorm="pl.nom.">kes</sone> <sone id="l1_s677" lemma="nemad" liik="ProS" vorm="pl.nom.">nat</sone>
+<sone id="l1_s854" lemma="need" liik="ProS" vorm="pl.all.">nendele</sone> <sone id="l1_s856" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone>
+<sone id="l1_s856" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone> <sone id="l1_s857" lemma="nimi" liik="S" vorm="pl.nom.">nimed</sone>
+<sone id="l1_s934" lemma="olema" liik="V" vorm="nud.">olnd</sone> <sone id="l1_s935" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l1_s935" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l1_s936" lemma="tahtma" liik="V" vorm="pers.ind.pr.sg.3.">tahab</sone>
+<sone id="l3_s151" lemma="õlu" liik="S" vorm="sg.tr.">ölleks</sone> <sone id="l3_s153" lemma="kes" liik="Intr" vorm="pl.nom.">kes</sone>
+<sone id="l3_s153" lemma="kes" liik="Intr" vorm="pl.nom.">kes</sone> <sone id="l3_s154" lemma="olema" liik="V" vorm="pers.ind.ipf.pl.3.">olid</sone>
+<sone id="l3_s454" lemma="noo" liik="Par">noo</sone> <sone id="l3_s455" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l3_s455" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l3_s456" lemma="nüüd" liik="ProAdv">niid</sone>
+<sone id="l27_s4" lemma="e" liik="Par">e</sone> <sone id="l27_s5" lemma="kes" liik="Intr" vorm="pl.nom.">kes</sone>
+<sone id="l27_s5" lemma="kes" liik="Intr" vorm="pl.nom.">kes</sone> <sone id="l27_s6" lemma="rikas" liik="A" vorm="pl.nom.">`rikkad</sone>
+<sone id="l27_s13" lemma="aga" liik="Konj">aga</sone> <sone id="l27_s14" lemma="kes" liik="Intr" vorm="pl.nom.">kes</sone>
+<sone id="l27_s14" lemma="kes" liik="Intr" vorm="pl.nom.">kes</sone> <sone id="l27_s16" lemma="siis" liik="ProAdv">siss</sone>
+<sone id="l29_s152" lemma="ning" liik="Konj">nink</sone> <sone id="l29_s153" lemma="kes" liik="Intr" vorm="sg.all.">kellele</sone>
+<sone id="l29_s153" lemma="kes" liik="Intr" vorm="sg.all.">kellele</sone> <sone id="l29_s154" lemma="nüüd" liik="ProAdv">niid</sone>
+<sone id="l29_s165" lemma="ja" liik="Konj">ja</sone> <sone id="l29_s166" lemma="kes" liik="Intr" vorm="pl.nom.">kes</sone>
+<sone id="l29_s166" lemma="kes" liik="Intr" vorm="pl.nom.">kes</sone> <sone id="l29_s167" lemma="e" liik="Par">e</sone>
+<sone id="l29_s167" lemma="e" liik="Par">e</sone> <sone id="l29_s169" lemma="kes" liik="Intr" vorm="sg.all.">kellele</sone>
+<sone id="l29_s169" lemma="kes" liik="Intr" vorm="sg.all.">kellele</sone> <sone id="l29_s170" lemma="peig" liik="S" vorm="sg.nom.">peig</sone>
+<sone id="l61_s2" lemma="nooh" liik="Par">noohh</sone> <sone id="l61_s4" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l61_s4" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l61_s6" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l61_s6" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l61_s7" lemma="see" liik="ProS" vorm="sg.gen.">selle</sone>
+<sone id="l19_s7" lemma="põrand" liik="S" vorm="sg.ad.">parandal</sone> <sone id="l19_s9" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l19_s9" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l19_s10" lemma="kangesti" liik="Adv">`kangest</sone>
+<sone id="l37_s22" lemma="liisk" liik="S" vorm="sg.part.">`liisku</sone> <sone id="l37_s24" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l37_s24" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l37_s25" lemma="pidama" liik="V" vorm="pers.knd.pr.sg.3.">peaks</sone>
+<sone id="l45_s41" lemma="kuduma" liik="V" vorm="tud.">kujudut</sone> <sone id="l45_s43" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l45_s43" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l45_s45" lemma="siis" liik="ProAdv">siis</sone>
+<sone id="l56_s11" lemma="ooh" liik="Par">ooh</sone> <sone id="l56_s13" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l56_s13" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l56_s15" lemma="siis" liik="ProAdv">siis</sone>
+<sone id="l70_s21" lemma="ka" liik="Par">kaa</sone> <sone id="l70_s23" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l70_s23" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l70_s24" lemma="tahtma" liik="V" vorm="nud.">`tahtend</sone>
+<sone id="l74_s21" lemma="mets" liik="S" vorm="sg.ill.">`metse</sone> <sone id="l74_s23" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l74_s23" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l74_s25" lemma="see" liik="ProS" vorm="sg.nom.">se</sone>
+<sone id="l90_s21" lemma="ja" liik="Konj">ja</sone> <sone id="l90_s22" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l90_s22" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l90_s24" lemma="seal" liik="ProAdv">sääl</sone>
+<sone id="l2_s12" lemma="mitte" liik="Mn">`mitte</sone> <sone id="l2_s14" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l2_s14" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l2_s15" lemma="olema" liik="Va" vorm="pers.knd.pr.sg.3.">oleks</sone>
+<sone id="l4_s12" lemma="ori" liik="S" vorm="sg.tr.">orjaks</sone> <sone id="l4_s14" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l4_s14" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l4_s16" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l4_s16" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l4_s17" lemma="mõis" liik="S" vorm="sg.in.">`möisas</sone>
+<sone id="l16_s128" lemma="ep" liik="Mn">p</sone> <sone id="l16_s130" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l16_s130" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l16_s131" lemma="tema" liik="ProS" vorm="sg.part.">teda</sone>
+<sone id="l118_s12" lemma="ja" liik="Konj">ja</sone> <sone id="l118_s14" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l118_s14" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l118_s16" lemma="siis" liik="ProAdv">siis</sone>
+<sone id="l118_s25" lemma="aga" liik="Konj">aga</sone> <sone id="l118_s26" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l118_s26" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l118_s28" lemma="juba" liik="Adv">juba</sone>
+<sone id="l91_s22" lemma="no" liik="Par">no</sone> <sone id="l91_s23" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l91_s23" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l91_s24" lemma="tahtma" liik="V" vorm="pers.ind.ipf.sg.3.">`tahtis</sone>
+<sone id="l5_s700" lemma="töö+mees" liik="S" vorm="pl.part.">töö+mehi</sone> <sone id="l5_s702" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l5_s702" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l5_s703" lemma="puu+töö" liik="S" vorm="sg.part.">puu+dööd</sone>
+<sone id="l59_s13" lemma="siis" liik="ProAdv">siiss</sone> <sone id="l59_s14" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l59_s14" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l59_s15" lemma="tahtma" liik="V" vorm="pers.ind.pr.sg.3.">tahab</sone>
+<sone id="l163_s14" lemma="ja" liik="Konj">ja</sone> <sone id="l163_s16" lemma="kes" liik="Intr" vorm="pl.nom.">kes</sone>
+<sone id="l163_s16" lemma="kes" liik="Intr" vorm="pl.nom.">kes</sone> <sone id="l163_s18" lemma="see" liik="ProS" vorm="sg.part.">se</sone>
+<sone id="l189_s10" lemma="seltsis" liik="Adv">`seltsis</sone> <sone id="l189_s11" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l189_s11" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l189_s13" liik="" meta="poolik sõna">o-</sone>
+<sone id="l189_s18" lemma="ja" liik="Konj">ja</sone> <sone id="l189_s20" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l189_s20" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l189_s21" lemma="olema" liik="Va" vorm="pers.ind.ipf.sg.3.">oli</sone>
+<sone id="l27_s18" lemma="et" liik="Konj">t</sone> <sone id="l27_s19" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l27_s19" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l27_s21" lemma="need" liik="ProS" vorm="pl.nom.">need</sone>
+<sone id="l49_s2" lemma="see" liik="ProS" vorm="sg.nom.">see</sone> <sone id="l49_s4" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone>
+<sone id="l49_s4" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone> <sone id="l49_s5" lemma="tahtma" liik="V" vorm="pers.ind.ipf.sg.3.">`tahtis</sone>
+<sone id="l63_s14" lemma="keetma" liik="V" vorm="ips.ind.ipf.">keededi</sone> <sone id="l63_s16" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l63_s16" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l63_s18" lemma="siis" liik="ModAdv">siiss</sone>
+<sone id="l79_s17" lemma="paljalt" liik="Adv">`paljalt</sone> <sone id="l79_s19" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone>
+<sone id="l79_s19" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone> <sone id="l79_s20" lemma="need" liik="ProS" vorm="pl.part.">neid</sone>
+<sone id="l99_s29" lemma="see" liik="ProS" vorm="sg.nom.">see</sone> <sone id="l99_s31" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l99_s31" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l99_s32" lemma="kukkuma" liik="V" vorm="pers.ind.pr.sg.3.">kukkub</sone>
+<sone id="l158_s2" lemma="ka" liik="ModAdv" tahendus="ka">kaa</sone> <sone id="l158_s3" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone>
+<sone id="l158_s3" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone> <sone id="l158_s4" lemma="humal" liik="S" vorm="pl.part.">umalid</sone>
+<sone id="l166_s17" lemma="ka" liik="ModAdv" tahendus="ka">kaa</sone> <sone id="l166_s19" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l166_s19" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l166_s20" lemma="pole" liik="Va" vorm="pers.ind.pr.neg.">pole</sone>
+<sone id="l206_s24" lemma="üles+pidi" liik="Adv">üles+pidi</sone> <sone id="l206_s25" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone>
+<sone id="l206_s25" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone> <sone id="l206_s26" lemma="nüüd" liik="ModAdv">nüid</sone>
+<sone id="l26_s8" lemma="ja" liik="Konj">ja</sone> <sone id="l26_s9" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l26_s9" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l26_s10" kommentaar="`vastu `rääkkis" lemma="vastu" liik="Adva">`vastu</sone>
+<sone id="l28_s15" lemma="virb" liik="S" tahendus="vits" vorm="pl.nom.">virvad</sone> <sone id="l28_s16" lemma="kes" liik="Intr" vorm="sg.kom.">killega</sone>
+<sone id="l28_s16" lemma="kes" liik="Intr" vorm="sg.kom.">killega</sone> <sone id="l28_s17" lemma="andma" liik="V" vorm="ips.ind.ipf.">`antti</sone>
+<sone id="l30_s3" lemma="no" liik="Par">no</sone> <sone id="l30_s4" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone>
+<sone id="l30_s4" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone> <sone id="l30_s6" lemma="see" liik="ProS" vorm="sg.part.">seda</sone>
+<sone id="l46_s9" lemma="riie" liik="S" vorm="sg.nom.">riije</sone> <sone id="l46_s11" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone>
+<sone id="l46_s11" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone> <sone id="l46_s12" lemma="siis" liik="ProAdv">siiss</sone>
+<sone id="l88_s125" lemma="olema" liik="V" vorm="pers.ind.ipf.sg.3.">oli</sone> <sone id="l88_s126" lemma="kes" liik="Intr" vorm="pl.nom.">kess</sone>
+<sone id="l88_s126" lemma="kes" liik="Intr" vorm="pl.nom.">kess</sone> <sone id="l88_s127" lemma="käima" liik="V" vorm="pers.ind.ipf.pl.3.">käist</sone>
+<sone id="l22_s24" kommentaar="aeast siis ennast maast üles" lemma="üles" liik="Adva">üles</sone> <sone id="l22_s26" lemma="kes" liik="Intr" vorm="pl.nom.">kes</sone>
+<sone id="l22_s26" lemma="kes" liik="Intr" vorm="pl.nom.">kes</sone> <sone id="l22_s27" lemma="kauaks" liik="Adv">kouwaks</sone>
+<sone id="l22_s37" lemma="aga" liik="Konj">aga</sone> <sone id="l22_s38" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone>
+<sone id="l22_s38" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone> <sone id="l22_s39" lemma="jälle" liik="Par">jälle</sone>
+<sone id="l32_s8" lemma="see" liik="ProS" vorm="sg.part.">seda</sone> <sone id="l32_s10" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone>
+<sone id="l32_s10" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone> <sone id="l32_s11" lemma="sina" liik="ProS" vorm="sg.part.">sind</sone>
+<sone id="l32_s48" lemma="kott" liik="S" vorm="sg.ill.">`kot'ti</sone> <sone id="l32_s50" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l32_s50" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l32_s51" lemma="see" liik="ProS" vorm="sg.el.">sest</sone>
+<sone id="l34_s27" lemma="et" liik="Konj">et</sone> <sone id="l34_s28" lemma="kes" liik="Intr" vorm="sg.ad.">killel</sone>
+<sone id="l34_s28" lemma="kes" liik="Intr" vorm="sg.ad.">killel</sone> <sone id="l34_s29" lemma="nälg" liik="S" vorm="sg.nom.">nälg</sone>
+<sone id="l34_s33" lemma="tulema" liik="V" vorm="pers.jus.pr.sg.3.">`tulgu</sone> <sone id="l34_s35" lemma="kes" liik="Intr" vorm="sg.ad.">killel</sone>
+<sone id="l34_s35" lemma="kes" liik="Intr" vorm="sg.ad.">killel</sone> <sone id="l34_s36" lemma="nälg" liik="S" vorm="sg.nom.">nälg</sone>
+<sone id="l38_s2" lemma="olema" liik="V" vorm="pers.ind.pr.neg.">ole</sone> <sone id="l38_s4" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone>
+<sone id="l38_s4" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone> <sone id="l38_s5" lemma="siis" liik="ProAdv">siiss</sone>
+<sone id="l62_s25" lemma="et" liik="Konj">et</sone> <sone id="l62_s26" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone>
+<sone id="l62_s26" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone> <sone id="l62_s27" lemma="tahtma" liik="V" vorm="pers.ind.pr.sg.3.">tahab</sone>
+<sone id="l74_s153" lemma="iga+üks" liik="ProS" vorm="sg.nom.">ega+üks</sone> <sone id="l74_s155" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l74_s155" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l74_s157" lemma="kus" liik="Intr">kus</sone>
+<sone id="l74_s159" lemma="minema" liik="V" vorm="pers.ind.pr.sg.2.">lähed</sone> <sone id="l74_s161" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l74_s161" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l74_s162" lemma="sina" liik="ProS" vorm="sg.part.">sind</sone>
+<sone id="l83_s490" lemma="eest" liik="Post">eest</sone> <sone id="l83_s492" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone>
+<sone id="l83_s492" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone> <sone id="l83_s493" lemma="siis" liik="ProAdv">sis</sone>
+<sone id="l83_s729" lemma="teadma" liik="V" vorm="pers.ind.pr.neg.">tää</sone> <sone id="l83_s731" lemma="kes" liik="Intr" vorm="sg.all.">killele</sone>
+<sone id="l83_s731" lemma="kes" liik="Intr" vorm="sg.all.">killele</sone> <sone id="l83_s732" lemma="need" liik="ProS" vorm="pl.nom.">ne</sone>
+<sone id="l89_s3" lemma="jaah" liik="Par">jaahh</sone> <sone id="l89_s5" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone>
+<sone id="l89_s5" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone> <sone id="l89_s6" lemma="see" liik="ProS" vorm="sg.nom.">se</sone>
+<sone id="l95_s13" lemma="ka" liik="Par">kaa</sone> <sone id="l95_s15" lemma="kes" liik="Intr" vorm="sg.kom.">killega</sone>
+<sone id="l95_s15" lemma="kes" liik="Intr" vorm="sg.kom.">killega</sone> <sone id="l95_s16" lemma="siis" liik="ProAdv">siis</sone>
+<sone id="l101_s99" lemma="ja" liik="Konj">ja</sone> <sone id="l101_s101" lemma="kes" liik="Intr" vorm="sg.ad.">killel</sone>
+<sone id="l101_s101" lemma="kes" liik="Intr" vorm="sg.ad.">killel</sone> <sone id="l101_s102" lemma="olema" liik="V" vorm="pers.ind.pr.sg.3.">on</sone>
+<sone id="l107_s31" lemma="panema" liik="V" vorm="ips.ind.ipf.">`pan'tti</sone> <sone id="l107_s33" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone>
+<sone id="l107_s33" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone> <sone id="l107_s34" lemma="siis" liik="ProAdv">siis</sone>
+<sone id="l109_s11" lemma="ikka" liik="Par">`ikka</sone> <sone id="l109_s12" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l109_s12" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l109_s13" liik="" meta="poolik sõna">te-</sone>
+<sone id="l113_s59" lemma="ja" liik="Konj">ja</sone> <sone id="l113_s61" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone>
+<sone id="l113_s61" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone> <sone id="l113_s62" lemma="jooma" liik="V" vorm="inf.">`juuwa</sone>
+<sone id="l121_s10" meta="kommentaar">naerab</sone> <sone id="l121_s12" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l121_s12" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l121_s13" lemma="olema" liik="Va" vorm="pers.ind.pr.neg.">pole</sone>
+<sone id="l146_s60" lemma="ja" liik="Konj">ja</sone> <sone id="l146_s62" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone>
+<sone id="l146_s62" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone> <sone id="l146_s63" lemma="nüüd" liik="Adv">nüid</sone>
+<sone id="l163_s11" lemma="ka" liik="Par">kaa</sone> <sone id="l163_s12" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l163_s12" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l163_s14" lemma="siis" liik="ProAdv">siss</sone>
+<sone id="l163_s273" lemma="viin" liik="S" vorm="sg.part.">`viina</sone> <sone id="l163_s275" lemma="kes" liik="Intr" vorm="sg.nom.">kisse</sone>
+<sone id="l163_s275" lemma="kes" liik="Intr" vorm="sg.nom.">kisse</sone> <sone id="l163_s276" lemma="teadma" liik="V" vorm="pers.ind.pr.sg.3.">tääb</sone>
+<sone id="l175_s18" lemma="enam" liik="Adv">änam</sone> <sone id="l175_s20" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone>
+<sone id="l175_s20" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone> <sone id="l175_s21" lemma="nemad" liik="ProS" vorm="pl.nom.">nad</sone>
+<sone id="l175_s168" lemma="ja" liik="Konj">ja</sone> <sone id="l175_s170" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone>
+<sone id="l175_s170" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone> <sone id="l175_s171" lemma="siis" liik="ProAdv">sis</sone>
+<sone id="l175_s282" lemma="nüüd" liik="Adv">nüid</sone> <sone id="l175_s283" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone>
+<sone id="l175_s283" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone> <sone id="l175_s284" lemma="olema" liik="V" vorm="pers.ind.pr.sg.3.">on</sone>
+<sone id="l185_s15" lemma="seal" liik="ProAdv">sääl</sone> <sone id="l185_s17" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone>
+<sone id="l185_s17" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone> <sone id="l185_s18" lemma="siis" liik="ProAdv">siiss</sone>
+<sone id="l13_s44" lemma="või" liik="Konj">vöi</sone> <sone id="l13_s45" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l13_s45" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l13_s46" lemma="tahes" liik="Adv">tahes</sone>
+<sone id="l35_s200" lemma="ütlema" liik="V" vorm="pers.ind.ipf.sg.1.">`ütsi</sone> <sone id="l35_s201" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l35_s201" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l35_s202" lemma="sina" liik="ProS" vorm="sg.part.">sind</sone>
+<sone id="l1_s1" lemma="üks+kord" liik="ProAdv">ühe+gora</sone> <sone id="l1_s3" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l1_s3" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l1_s4" lemma="äkki" liik="Adv">äkkist</sone>
+<sone id="l4_s64" lemma="ütlema" liik="V" vorm="pers.ind.ipf.sg.3.">`ütles</sone> <sone id="l4_s66" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l4_s66" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l4_s67" lemma="see" liik="ProS" vorm="sg.nom.">see</sone>
+<sone id="l8_s27" lemma="ning" liik="Konj">ning</sone> <sone id="l8_s28" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l8_s28" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l8_s29" lemma="juhtuma" liik="V" vorm="pers.ind.ipf.sg.3.">`juhtus</sone>
+<sone id="l32_s100" lemma="ning" liik="Konj">nink</sone> <sone id="l32_s101" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l32_s101" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l32_s102" lemma="tema" liik="ProS" vorm="sg.part.">teda</sone>
+<sone id="l32_s378" lemma="olema" liik="V" vorm="nud.">olnd</sone> <sone id="l32_s380" lemma="kes" liik="Intr" vorm="pl.nom.">kess</sone>
+<sone id="l32_s380" lemma="kes" liik="Intr" vorm="pl.nom.">kess</sone> <sone id="l32_s382" lemma="olema" liik="Va" vorm="pers.ind.pr.sg.3.">on</sone>
+<sone id="l42_s6" lemma="olema" liik="V" vorm="pers.ind.pr.sg.3.">on</sone> <sone id="l42_s8" lemma="kes" liik="Intr" vorm="pl.nom.">kess</sone>
+<sone id="l42_s8" lemma="kes" liik="Intr" vorm="pl.nom.">kess</sone> <sone id="l42_s9" lemma="olema" liik="Va" vorm="pers.ind.pr.sg.3.">on</sone>
+<sone id="l42_s10" lemma="rääkima" liik="V" vorm="nud.">`rääkkind</sone> <sone id="l42_s12" lemma="kes" liik="Intr" vorm="pl.nom.">kess</sone>
+<sone id="l42_s12" lemma="kes" liik="Intr" vorm="pl.nom.">kess</sone> <sone id="l42_s13" lemma="olema" liik="Va" vorm="pers.ind.pr.sg.3.">on</sone>
+<sone id="l42_s118" lemma="ümmardaja" liik="S" vorm="pl.nom.">ümardajad</sone> <sone id="l42_s120" lemma="kes" liik="Intr" vorm="pl.nom.">kis</sone>
+<sone id="l42_s120" lemma="kes" liik="Intr" vorm="pl.nom.">kis</sone> <sone id="l42_s121" lemma="see" liik="ProS" vorm="sg.gen.">selle</sone>
+<sone id="l47_s40" lemma="mitte" liik="Mn">`mitte</sone> <sone id="l47_s42" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l47_s42" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l47_s44" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l47_s44" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l47_s45" lemma="olema" liik="Va" vorm="pers.ind.pr.sg.3.">on</sone>
+<sone id="l53_s47" kommentaar="`kinni `oittud" lemma="hoidma" liik="V" vorm="tud.">`oittud</sone> <sone id="l53_s49" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l53_s49" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l53_s50" lemma="siis" liik="ProAdv">sis</sone>
+<sone id="l57_s120" lemma="ning" liik="Konj">ning</sone> <sone id="l57_s122" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l57_s122" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l57_s123" lemma="olema" liik="Va" vorm="pers.ind.pr.sg.3.">on</sone>
+<sone id="l59_s19" lemma="mujal" liik="ProAdv">maeal</sone> <sone id="l59_s21" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l59_s21" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l59_s22" lemma="jälle" liik="Par">jälle</sone>
+<sone id="l67_s233" lemma="no" liik="Par">no</sone> <sone id="l67_s234" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l67_s234" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l67_s235" lemma="need" liik="ProS" vorm="pl.part.">neid</sone>
+<sone id="l81_s61" lemma="no" liik="Par">no</sone> <sone id="l81_s62" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l81_s62" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l81_s63" lemma="sina" liik="ProS" vorm="sg.gen.">su</sone>
+<sone id="l91_s33" lemma="magama" liik="V" vorm="nud.">magand</sone> <sone id="l91_s35" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l91_s35" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l91_s36" lemma="olema" liik="Va" vorm="pers.ind.pr.sg.3.">on</sone>
+<sone id="l91_s157" lemma="ning" liik="Konj">nink</sone> <sone id="l91_s158" lemma="kes" liik="Intr" vorm="sg.part.">kedast</sone>
+<sone id="l91_s158" lemma="kes" liik="Intr" vorm="sg.part.">kedast</sone> <sone id="l91_s159" lemma="tema" liik="ProS" vorm="sg.nom.">ta</sone>
+<sone id="l102_s62" lemma="selle+pärast" liik="ProAdv">selle+bärast</sone> <sone id="l102_s64" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l102_s64" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l102_s65" lemma="elama" liik="V" vorm="pers.ind.pr.sg.3.">elab</sone>
+<sone id="l109_s73" lemma="küla" liik="S" vorm="sg.in.">külas</sone> <sone id="l109_s75" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone>
+<sone id="l109_s75" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone> <sone id="l109_s77" lemma="siis" liik="ProAdv">siss</sone>
+<sone id="l109_s90" lemma="need" liik="ProS" vorm="pl.nom.">nee</sone> <sone id="l109_s92" lemma="kes" liik="Intr" vorm="pl.nom.">kess</sone>
+<sone id="l109_s92" lemma="kes" liik="Intr" vorm="pl.nom.">kess</sone> <sone id="l109_s93" lemma="mina" liik="ProS" vorm="sg.el.">moost</sone>
+<sone id="l109_s123" meta="kommentaar">naerab</sone> <sone id="l109_s124" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l109_s124" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l109_s125" lemma="mina" liik="ProS" vorm="sg.el.">moost</sone>
+<sone id="l127_s49" lemma="ning" liik="Konj">ning</sone> <sone id="l127_s50" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone>
+<sone id="l127_s50" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone> <sone id="l127_s51" lemma="olema" liik="V" vorm="pers.ind.ipf.sg.3.">oli</sone>
+<sone id="l127_s118" lemma="kuulama" liik="V" vorm="nud.">`kuuland</sone> <sone id="l127_s120" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l127_s120" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l127_s121" lemma="olema" liik="Va" vorm="pers.ind.pr.sg.3.">on</sone>
+<sone id="l135_s50" lemma="siis" liik="ProAdv">siiss</sone> <sone id="l135_s51" lemma="kes" liik="Intr" vorm="sg.ad.">kennel</sone>
+<sone id="l135_s51" lemma="kes" liik="Intr" vorm="sg.ad.">kennel</sone> <sone id="l135_s52" lemma="need" liik="ProS" vorm="pl.nom.">nee</sone>
+<sone id="l3_s92" kommentaar="`katsuge `järge" lemma="järgi" liik="Adva">`järge</sone> <sone id="l3_s94" lemma="kes" liik="Intr" vorm="sg.ad.">kennel</sone>
+<sone id="l3_s94" lemma="kes" liik="Intr" vorm="sg.ad.">kennel</sone> <sone id="l3_s95" lemma="olema" liik="V" vorm="pers.ind.pr.sg.3.">on</sone>
+<sone id="l3_s97" lemma="sõrmus" liik="S" vorm="sg.nom.">sörmus</sone> <sone id="l3_s99" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone>
+<sone id="l3_s99" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone> <sone id="l3_s100" lemma="paise" liik="S" vorm="sg.nom.">paise</sone>
+<sone id="l39_s51" lemma="püüdma" liik="V" vorm="pers.ind.ipf.pl.3.">`püitsid</sone> <sone id="l39_s53" lemma="kes" liik="Intr" vorm="sg.ad.">kennel</sone>
+<sone id="l39_s53" lemma="kes" liik="Intr" vorm="sg.ad.">kennel</sone> <sone id="l39_s54" lemma="es" liik="Mn">ess</sone>
+<sone id="l43_s3" lemma="jälle" liik="Par">`jälle</sone> <sone id="l43_s5" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l43_s5" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l43_s6" lemma="juba" liik="Adv">juba</sone>
+<sone id="l49_s45" lemma="ning" liik="Konj">ning</sone> <sone id="l49_s47" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l49_s47" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l49_s48" lemma="tahtma" liik="V" vorm="pers.ind.ipf.sg.3.">`tahtas</sone>
+<sone id="l49_s75" lemma="no" liik="Par">no</sone> <sone id="l49_s76" lemma="kes" liik="Intr" vorm="sg.ad.">kennel</sone>
+<sone id="l49_s76" lemma="kes" liik="Intr" vorm="sg.ad.">kennel</sone> <sone id="l49_s77" lemma="oma" liik="ProS" vorm="sg.ad.">omal</sone>
+<sone id="l49_s79" lemma="olema" liik="V" vorm="pers.ind.ipf.pl.3.">olid</sone> <sone id="l49_s81" lemma="kes" liik="Intr" vorm="sg.ad.">kennel</sone>
+<sone id="l49_s81" lemma="kes" liik="Intr" vorm="sg.ad.">kennel</sone> <sone id="l49_s83" lemma="es" liik="Mn">ess</sone>
+<sone id="l62_s85" lemma="kala" liik="S" vorm="pl.nom.">kalad</sone> <sone id="l62_s87" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l62_s87" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l62_s88" lemma="need" liik="ProS" vorm="pl.part.">neid</sone>
+<sone id="l66_s14" lemma="lahetama" liik="V" tahendus="viskama" vorm="tud.">lahedut</sone> <sone id="l66_s16" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l66_s16" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l66_s17" lemma="need" liik="ProS" vorm="pl.part.">neid</sone>
+<sone id="l66_s18" lemma="siis" liik="ProAdv">siss</sone> <sone id="l66_s20" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l66_s20" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l66_s21" lemma="need" liik="ProS" vorm="pl.part.">neid</sone>
+<sone id="l68_s26" lemma="ning" liik="Konj">ning</sone> <sone id="l68_s27" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l68_s27" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l68_s28" lemma="need" liik="ProS" vorm="pl.part.">neid</sone>
+<sone id="l74_s135" lemma="olema" liik="V" vorm="inf.">`olla</sone> <sone id="l74_s137" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l74_s137" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l74_s138" lemma="need" liik="ProS" vorm="pl.part.">neid</sone>
+<sone id="l112_s4" lemma="et" liik="Konj">et</sone> <sone id="l112_s6" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone>
+<sone id="l112_s6" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone> <sone id="l112_s7" lemma="kuiv" liik="A" vorm="pl.nom.">kuivad</sone>
+<sone id="l142_s96" lemma="selle+pärast" liik="ProAdv">selle+bärast</sone> <sone id="l142_s98" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l142_s98" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l142_s99" lemma="seal" liik="ProAdv">sääl</sone>
+<sone id="l158_s34" lemma="need" liik="ProS" vorm="pl.nom.">nee</sone> <sone id="l158_s36" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l158_s36" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l158_s37" lemma="võrgu+kuduja" liik="S" vorm="pl.nom.">vörgu+kudujad</sone>
+<sone id="l3_s127" lemma="need" liik="ProS" vorm="pl.nom.">nee</sone> <sone id="l3_s128" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l3_s128" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l3_s129" lemma="mõistma" liik="V" vorm="pers.ind.pr.pl.3.">`möistvad</sone>
+<sone id="l3_s130" lemma="kirjutama" liik="V" vorm="inf.">kirjuttada</sone> <sone id="l3_s132" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l3_s132" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l3_s133" lemma="roos" liik="S" vorm="sg.gen.">roosi</sone>
+<sone id="l3_s196" lemma="aga" liik="Konj">aga</sone> <sone id="l3_s197" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l3_s197" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l3_s198" lemma="tema" liik="ProS" vorm="sg.part.">teda</sone>
+<sone id="l7_s74" lemma="juurde" liik="Post">juure</sone> <sone id="l7_s76" lemma="kes" liik="Intr" vorm="sg.ad.">kennel</sone>
+<sone id="l7_s76" lemma="kes" liik="Intr" vorm="sg.ad.">kennel</sone> <sone id="l7_s78" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l7_s78" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l7_s79" lemma="siis" liik="ProAdv">siis</sone>
+<sone id="l15_s16" lemma="noh" liik="Par">nohh</sone> <sone id="l15_s18" lemma="kes" liik="Intr" vorm="sg.ad.">kennel</sone>
+<sone id="l15_s18" lemma="kes" liik="Intr" vorm="sg.ad.">kennel</sone> <sone id="l15_s19" lemma="narr" liik="S" tahendus="kidi" vorm="sg.nom.">narr</sone>
+<sone id="l15_s44" lemma="küsija" liik="S" vorm="sg.nom.">`küsija</sone> <sone id="l15_s46" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l15_s46" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l15_s47" lemma="seal" liik="ProAdv">sääl</sone>
+<sone id="l15_s77" lemma="neitsi+laps" liik="S" vorm="sg.nom.">neitsi+laps</sone> <sone id="l15_s78" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l15_s78" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l15_s79" lemma="see" liik="ProS" vorm="sg.part.">seda</sone>
+<sone id="l19_s121" lemma="no" liik="Par">no</sone> <sone id="l19_s122" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l19_s122" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l19_s123" lemma="siis" liik="ProAdv">siis</sone>
+<sone id="l19_s221" lemma="lõugutama" liik="V" vorm="sup.in.">louguttamas</sone> <sone id="l19_s223" lemma="kes" liik="Intr" vorm="sg.ad.">kennel</sone>
+<sone id="l19_s223" lemma="kes" liik="Intr" vorm="sg.ad.">kennel</sone> <sone id="l19_s224" lemma="vahel" liik="ProAdv">vahest</sone>
+<sone id="l19_s246" lemma="olema" liik="V" vorm="sup.">olema</sone> <sone id="l19_s248" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l19_s248" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l19_s249" lemma="see" liik="ProS" vorm="sg.part.">seda</sone>
+<sone id="l35_s18" lemma="küll" liik="Par">küll</sone> <sone id="l35_s20" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l35_s20" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l35_s21" lemma="muljuma" liik="V" vorm="pers.ind.pr.pl.3.">`mul'juvad</sone>
+<sone id="l35_s21" lemma="muljuma" liik="V" vorm="pers.ind.pr.pl.3.">`mul'juvad</sone> <sone id="l35_s23" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l35_s23" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l35_s24" lemma="mõistma" liik="V" vorm="pers.ind.pr.pl.3.">`möistvad</sone>
+<sone id="l35_s31" lemma="küll" liik="Par">küll</sone> <sone id="l35_s33" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l35_s33" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l35_s34" lemma="mõistma" liik="V" vorm="pers.ind.pr.pl.3.">`möistvad</sone>
+<sone id="l71_s38" lemma="olema" liik="V" vorm="sup.">olema</sone> <sone id="l71_s40" lemma="kes" liik="Intr" vorm="sg.ad.">kennel</sone>
+<sone id="l71_s40" lemma="kes" liik="Intr" vorm="sg.ad.">kennel</sone> <sone id="l71_s41" lemma="pidama" liik="V" vorm="pers.ind.pr.sg.3.">piab</sone>
+<sone id="l85_s52" lemma="ka" liik="Par">kaa</sone> <sone id="l85_s54" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l85_s54" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l85_s55" lemma="e" liik="Par">e</sone>
+<sone id="l85_s71" lemma="olema" liik="V" vorm="pers.ind.ipf.sg.3.">oli</sone> <sone id="l85_s73" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l85_s73" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l85_s74" lemma="panema" liik="V" vorm="pers.ind.ipf.sg.3.">pani</sone>
+<sone id="l92_s13" lemma="miski" liik="ProS" vorm="sg.part.">midagid</sone> <sone id="l92_s15" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l92_s15" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l92_s16" lemma="need" liik="ProS" vorm="pl.part.">neid</sone>
+<sone id="l92_s48" lemma="kõik" liik="ProS" vorm="pl.nom.">keik</sone> <sone id="l92_s50" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l92_s50" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l92_s51" lemma="need" liik="ProS" vorm="pl.part.">neid</sone>
+<sone id="l100_s76" lemma="tüdruk" liik="S" vorm="sg.nom.">tüdruk</sone> <sone id="l100_s77" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l100_s77" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l100_s78" lemma="praegu" liik="ProAdv">`praegu</sone>
+<sone id="l100_s111" lemma="noh" liik="Par">nohh</sone> <sone id="l100_s113" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l100_s113" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l100_s114" lemma="siis" liik="ProAdv">siis</sone>
+<sone id="l100_s130" lemma="juba" liik="Adv">juba</sone> <sone id="l100_s132" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l100_s132" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l100_s134" lemma="siis" liik="ProAdv">siss</sone>
+<sone id="l104_s32" lemma="võõras" liik="S" vorm="sg.nom.">vööras</sone> <sone id="l104_s34" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone>
+<sone id="l104_s34" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone> <sone id="l104_s35" lemma="imetama" liik="V" vorm="pers.ind.ipf.sg.3.">imettas</sone>
+<sone id="l126_s2" lemma="olema" liik="V" vorm="pers.ind.pr.neg.">ole</sone> <sone id="l126_s4" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l126_s4" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l126_s5" lemma="see" liik="ProS" vorm="sg.part.">seda</sone>
+<sone id="l126_s37" lemma="olema" liik="V" vorm="pers.ind.pr.neg.">pole</sone> <sone id="l126_s39" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l126_s39" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l126_s40" lemma="laps" liik="S" vorm="sg.gen.">lapse</sone>
+<sone id="l59_s5" lemma="ja" liik="Konj">ja</sone> <sone id="l59_s6" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l59_s6" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l59_s7" kommentaar="`sesse `vöetti" lemma="sisse" liik="Adva">`sesse</sone>
+<lause id="l110" koneleja="KJ"> <sone id="l110_s1" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l110_s1" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l110_s2" lemma="teine+teise" liik="ProS" vorm="sg.part.">teine+deist</sone>
+<sone id="l129_s105" lemma="viskama" liik="V" vorm="sup.">`viskama</sone> <sone id="l129_s106" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l129_s106" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l129_s107" lemma="olema" liik="V" vorm="pers.ind.pr.neg.">pole</sone>
+<sone id="l147_s32" lemma="aga" liik="Konj">aga</sone> <sone id="l147_s33" lemma="kes" liik="Intr" vorm="sg.ad.">kessel</sone>
+<sone id="l147_s33" lemma="kes" liik="Intr" vorm="sg.ad.">kessel</sone> <sone id="l147_s34" lemma="olema" liik="V" vorm="pers.ind.ipf.pl.3.">olid</sone>
+<sone id="l213_s3" lemma="ütlema" liik="V" vorm="pers.ind.ipf.sg.1.">`itli</sone> <sone id="l213_s4" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone>
+<sone id="l213_s4" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone> <sone id="l213_s5" lemma="tahtma" liik="V" vorm="pers.knd.pr.sg.3.">tahaks</sone>
+<sone id="l257_s26" lemma="tegema" liik="V" vorm="tud.">`tehtud</sone> <sone id="l257_s28" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l257_s28" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l257_s29" lemma="olema" liik="V" vorm="pers.ind.ipf.sg.3.">oli</sone>
+<sone id="l257_s32" lemma="vammus" liik="S" vorm="sg.nom.">vammus</sone> <sone id="l257_s33" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l257_s33" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l257_s34" lemma="olema" liik="V" vorm="pers.ind.ipf.sg.3.">oli</sone>
+<sone id="l283_s1" lemma="aga" liik="Konj">aga</sone> <sone id="l283_s2" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l283_s2" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l283_s3" lemma="tema" liik="ProS" vorm="sg.gen.">ta</sone>
+<sone id="l291_s7" lemma="nägema" liik="V" vorm="pers.knd.pr.sg.2.">`näeksid</sone> <sone id="l291_s8" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l291_s8" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l291_s9" lemma="need" liik="ProS" vorm="pl.part.">neid</sone>
+<lause id="l307" koneleja="KJ"> <sone id="l307_s1" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l307_s1" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l307_s2" lemma="need" liik="ProS" vorm="pl.part.">neid</sone>
+<sone id="l323_s29" lemma="ise" liik="Adv" tahendus="eraldi">ise</sone> <sone id="l323_s31" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l323_s31" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l323_s32" lemma="sinna" liik="ProAdv">`sönna</sone>
+<lause id="l375" koneleja="KJ"> <sone id="l375_s1" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l375_s1" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l375_s2" lemma="kodune" liik="A" vorm="pl.nom.">kodused</sone>
+<sone id="l377_s1" lemma="aga" liik="Konj">aga</sone> <sone id="l377_s2" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l377_s2" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l377_s4" lemma="siis" liik="ProAdv">siss</sone>
+<sone id="l381_s3" lemma="Peeter" liik="H" vorm="sg.nom.">`Peetter</sone> <sone id="l381_s4" lemma="kes" liik="Intr" vorm="sg.kom.">killega</sone>
+<sone id="l381_s4" lemma="kes" liik="Intr" vorm="sg.kom.">killega</sone> <sone id="l381_s5" lemma="mina" liik="ProS" vorm="sg.gen.">moo</sone>
+<lause id="l389" koneleja="KJ"> <sone id="l389_s1" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l389_s1" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l389_s2" lemma="ikka" liik="Adv">`ikka</sone>
+<sone id="l389_s20" lemma="ka" liik="Par">kaa</sone> <sone id="l389_s21" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l389_s21" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l389_s22" lemma="ikka" liik="Adv">`ikka</sone>
+<sone id="l405_s1" lemma="oh" liik="Par">ohh</sone> <sone id="l405_s2" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l405_s2" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l405_s4" lemma="tüdruk" liik="S" vorm="pl.ad.">tüdrugittel</sone>
+<lause id="l14" koneleja="KJ2"> <sone id="l14_s1" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l14_s1" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l14_s2" lemma="üksi" liik="Adv">`üksi</sone>
+<sone id="l14_s5" lemma="aga" liik="Konj">aga</sone> <sone id="l14_s6" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone>
+<sone id="l14_s6" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone> <sone id="l14_s7" lemma="ikka" liik="Par">ikka</sone>
+<sone id="l39_s39" lemma="ümber" liik="Adv">`ümber</sone> <sone id="l39_s40" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l39_s40" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l39_s41" lemma="lammas" liik="S" vorm="pl.nom.">`lambad</sone>
+<sone id="l49_s11" lemma="masin" liik="S" vorm="pl.nom.">masinad</sone> <sone id="l49_s12" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l49_s12" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l49_s13" lemma="vill" liik="S" vorm="sg.gen.">villa</sone>
+<sone id="l49_s19" lemma="olema" liik="V" vorm="pers.ind.pr.sg.3.">onn</sone> <sone id="l49_s20" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l49_s20" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l49_s21" lemma="vill" liik="S" vorm="sg.gen.">villa</sone>
+<sone id="l130_s6" lemma="käär+puud" liik="S" vorm="pl.nom.">käär+puud</sone> <sone id="l130_s7" lemma="kes" liik="Intr" vorm="sg.gen.">kelle</sone>
+<sone id="l130_s7" lemma="kes" liik="Intr" vorm="sg.gen.">kelle</sone> <sone id="l130_s8" lemma="peal" liik="Post">pääl</sone>
+<sone id="l151_s17" lemma="laps" liik="S" vorm="pl.part.">`lapsi</sone> <sone id="l151_s18" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone>
+<sone id="l151_s18" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone> <sone id="l151_s20" lemma="laps" liik="S" vorm="pl.part.">`lapsi</sone>
+<sone id="l188_s5" lemma="muidugi" liik="Par">muidugid</sone> <sone id="l188_s6" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l188_s6" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l188_s7" lemma="naa" liik="ProAdv" tahendus="nõnda">naa</sone>
+<sone id="l260_s6" lemma="ja" liik="Konj">ja</sone> <sone id="l260_s7" lemma="kes" liik="Intr" vorm="sg.kom.">kellega</sone>
+<sone id="l260_s7" lemma="kes" liik="Intr" vorm="sg.kom.">kellega</sone> <sone id="l260_s9" lemma="sina" liik="ProS" vorm="sg.nom.">sa</sone>
+<sone id="l290_s27" lemma="puu" liik="S" vorm="sg.nom.">puu</sone> <sone id="l290_s28" lemma="kes" liik="Intr" vorm="sg.kom.">kellega</sone>
+<sone id="l290_s28" lemma="kes" liik="Intr" vorm="sg.kom.">kellega</sone> <sone id="l290_s29" lemma="sina" liik="ProS" vorm="sg.nom.">saa</sone>
+<sone id="l329_s2" lemma="juba" liik="Par">juba</sone> <sone id="l329_s4" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l329_s4" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l329_s5" lemma="laskma" liik="V" vorm="pers.ind.pr.sg.3.">laseb</sone>
+<lause id="l376" koneleja="KJ1"> <sone id="l376_s1" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l376_s1" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l376_s2" lemma="siis" liik="ProAdv">siss</sone>
+<lause id="l397" koneleja="KJ1"> <sone id="l397_s1" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l397_s1" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l397_s2" lemma="nüüd" liik="Adv">nüid</sone>
+<sone id="l409_s7" lemma="ja" liik="Konj">ja</sone> <sone id="l409_s8" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l409_s8" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l409_s9" lemma="nüüd" liik="Adv">nüid</sone>
+<sone id="l9_s5" liik="" meta="poolik sõna">ke-</sone> <sone id="l9_s6" lemma="kes" liik="Intr" vorm="sg.gen.">käne</sone>
+<sone id="l9_s6" lemma="kes" liik="Intr" vorm="sg.gen.">käne</sone> <sone id="l9_s7" lemma="külge" liik="Post">`külge</sone>
+<sone id="l94_s7" lemma="ikka" liik="Par">ikke</sone> <sone id="l94_s9" lemma="kes" liik="Intr" vorm="sg.kom.">kenega</sone>
+<sone id="l94_s9" lemma="kes" liik="Intr" vorm="sg.kom.">kenega</sone> <sone id="l94_s10" lemma="sina" liik="ProS" vorm="sg.nom.">sa</sone>
+<sone id="l100_s6" liik="" meta="poolik sõna">ke-</sone> <sone id="l100_s7" lemma="kes" liik="Intr" vorm="sg.ad.">kenel</sone>
+<sone id="l100_s7" lemma="kes" liik="Intr" vorm="sg.ad.">kenel</sone> <sone id="l100_s8" lemma="need" liik="ProS" vorm="pl.part.">neid</sone>
+<sone id="l100_s8" lemma="need" liik="ProS" vorm="pl.part.">neid</sone> <sone id="l100_s10" lemma="kes" liik="Intr" vorm="sg.ad.">kenel</sone>
+<sone id="l100_s10" lemma="kes" liik="Intr" vorm="sg.ad.">kenel</sone> <sone id="l100_s11" lemma="need" liik="ProS" vorm="pl.part.">neid</sone>
+<sone id="l128_s15" liik="" meta="poolik sõna">ke-</sone> <sone id="l128_s16" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l128_s16" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l128_s17" lemma="ka" liik="Par">kaa</sone>
+<sone id="l130_s32" lemma="harva" liik="Adv">`arva</sone> <sone id="l130_s33" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l130_s33" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l130_s34" lemma="küüt" liik="S" vorm="sg.kom.">küiduga</sone>
+<sone id="l130_s35" lemma="minema" liik="V" vorm="pers.ind.ipf.pl.3.">läksid</sone> <sone id="l130_s37" lemma="kes" liik="Intr" vorm="sg.ad.">kel</sone>
+<sone id="l130_s37" lemma="kes" liik="Intr" vorm="sg.ad.">kel</sone> <sone id="l130_s38" lemma="olema" liik="Va" vorm="pers.ind.pr.neg.">pole</sone>
+<sone id="l132_s7" liik="" meta="poolik sõna">ki-</sone> <sone id="l132_s8" lemma="kes" liik="Intr" vorm="sg.ad.">killel</sone>
+<sone id="l132_s8" lemma="kes" liik="Intr" vorm="sg.ad.">killel</sone> <sone id="l132_s9" lemma="olema" liik="Va" vorm="pers.ind.pr.neg.">pole</sone>
+<sone id="l142_s25" lemma="need" liik="ProS" vorm="pl.nom.">need</sone> <sone id="l142_s27" lemma="kes" liik="Intr" vorm="sg.ad.">kel</sone>
+<sone id="l142_s27" lemma="kes" liik="Intr" vorm="sg.ad.">kel</sone> <sone id="l142_s28" lemma="nii" liik="Par">nii</sone>
+<sone id="l142_s28" lemma="nii" liik="Par">nii</sone> <sone id="l142_s29" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l142_s29" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l142_s30" lemma="jälle" liik="Par">`jälle</sone>
+<sone id="l203_s28" lemma="jälle" liik="Adv">`jälle</sone> <sone id="l203_s30" lemma="kes" liik="Intr" vorm="sg.gen.">käne</sone>
+<sone id="l203_s30" lemma="kes" liik="Intr" vorm="sg.gen.">käne</sone> <sone id="l203_s31" lemma="alt" liik="Post">alt</sone>
+<sone id="l227_s82" lemma="vahel" liik="Adv">vahel</sone> <sone id="l227_s83" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone>
+<sone id="l227_s83" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone> <sone id="l227_s84" lemma="teadma" liik="V" vorm="pers.ind.pr.sg.3.">tääb</sone>
+<sone id="l241_s5" lemma="olema" liik="V" vorm="pers.ind.ipf.sg.2.">olid</sone> <sone id="l241_s6" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l241_s6" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l241_s7" lemma="pii+vahe" liik="S" vorm="sg.gen.">pii+vahe</sone>
+<sone id="l261_s88" lemma="ja" liik="Konj">ja</sone> <sone id="l261_s89" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone>
+<sone id="l261_s89" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone> <sone id="l261_s90" lemma="nobe" liik="A" vorm="sg.nom.">nobe</sone>
+<sone id="l267_s32" liik="" meta="poolik sõna">kes-</sone> <sone id="l267_s33" lemma="kes" liik="Intr" vorm="pl.nom.">kessid</sone>
+<sone id="l267_s33" lemma="kes" liik="Intr" vorm="pl.nom.">kessid</sone> <sone id="l267_s34" liik="" meta="poolik sõna">ke-</sone>
+<sone id="l267_s34" liik="" meta="poolik sõna">ke-</sone> <sone id="l267_s35" lemma="kes" liik="Intr" vorm="sg.kom.">kenega</sone>
+<sone id="l267_s35" lemma="kes" liik="Intr" vorm="sg.kom.">kenega</sone> <sone id="l267_s36" lemma="pood" liik="S" vorm="sg.in.">`poodis</sone>
+<sone id="l321_s7" lemma="ja" liik="Konj">ja</sone> <sone id="l321_s8" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l321_s8" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l321_s9" lemma="sööm" liik="S" vorm="sg.gen.">sööma</sone>
+<sone id="l431_s26" lemma="jälle" liik="Adv">`jälle</sone> <sone id="l431_s27" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l431_s27" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l431_s28" lemma="pesema" liik="V" vorm="pers.ind.ipf.pl.3.">pesid</sone>
+<sone id="l439_s16" lemma="ära" liik="Adva">ää</sone> <sone id="l439_s17" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l439_s17" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l439_s19" lemma="need" liik="ProS" vorm="pl.part.">neid</sone>
+<sone id="l439_s25" lemma="neh" liik="Par">neh</sone> <sone id="l439_s26" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l439_s26" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l439_s28" lemma="see" liik="ProS" vorm="sg.nom.">see</sone>
+<sone id="l505_s2" lemma="ikka" liik="Par">`ikke</sone> <sone id="l505_s4" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone>
+<sone id="l505_s4" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone> <sone id="l505_s5" lemma="seal" liik="ProAdv">sääl</sone>
+<lause id="l507" koneleja="KJ"> <sone id="l507_s1" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone>
+<sone id="l507_s1" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone> <sone id="l507_s3" lemma="olema" liik="Va" vorm="pers.ind.pr.neg.">pole</sone>
+<sone id="l33_s17" lemma="leelis" liik="S" vorm="sg.nom.">leelis</sone> <sone id="l33_s18" lemma="kes" liik="Intr" vorm="sg.kom.">kellega</sone>
+<sone id="l33_s18" lemma="kes" liik="Intr" vorm="sg.kom.">kellega</sone> <sone id="l33_s19" lemma="inimene" liik="S" vorm="pl.nom.">inimesed</sone>
+<sone id="l33_s22" lemma="pesema" liik="V" vorm="pers.ind.ipf.pl.3.">pessid</sone> <sone id="l33_s24" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone>
+<sone id="l33_s24" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone> <sone id="l33_s25" lemma="paks" liik="A" vorm="pl.nom.">paksud</sone>
+<sone id="l75_s4" lemma="aegu" liik="Post">`aegu</sone> <sone id="l75_s5" lemma="kes" liik="Intr" vorm="sg.ad.">kennel</sone>
+<sone id="l75_s5" lemma="kes" liik="Intr" vorm="sg.ad.">kennel</sone> <sone id="l75_s6" lemma="olema" liik="V" vorm="pers.ind.ipf.sg.3.">oli</sone>
+<sone id="l106_s34" lemma="aga" liik="Konj">aga</sone> <sone id="l106_s35" lemma="kes" liik="Intr" vorm="sg.kom.">kellega</sone>
+<sone id="l106_s35" lemma="kes" liik="Intr" vorm="sg.kom.">kellega</sone> <sone id="l106_s36" lemma="teie" liik="ProS" vorm="pl.ad.">teil</sone>
+<lause id="l114" koneleja="KJ"> <sone id="l114_s1" lemma="kes" liik="Intr" vorm="sg.kom.">kennega</sone>
+<sone id="l114_s1" lemma="kes" liik="Intr" vorm="sg.kom.">kennega</sone> <sone id="l114_s2" lemma="sedasi" liik="ProAdv">sedasi</sone>
+<sone id="l137_s27" lemma="hari" liik="S" vorm="pl.nom.">arjad</sone> <sone id="l137_s28" lemma="kes" liik="ProS" vorm="sg.gen.">kenne</sone>
+<sone id="l137_s28" lemma="kes" liik="ProS" vorm="sg.gen.">kenne</sone> <sone id="l137_s29" lemma="peal" liik="Post">peal</sone>
+<sone id="l148_s7" lemma="tarvis" liik="Adv">tarvis</sone> <sone id="l148_s9" lemma="kes" liik="Intr" vorm="sg.el.">kellest</sone>
+<sone id="l148_s9" lemma="kes" liik="Intr" vorm="sg.el.">kellest</sone> <sone id="l148_s10" lemma="palakas" liik="S" tahendus="voodilina" vorm="pl.nom.">palagud</sone>
+<sone id="l47_s42" lemma="põletama" liik="V" vorm="inf.">pöletta</sone> <sone id="l47_s43" lemma="kes" liik="Intr" vorm="sg.kom.">killega</sone>
+<sone id="l47_s43" lemma="kes" liik="Intr" vorm="sg.kom.">killega</sone> <sone id="l47_s44" lemma="olema" liik="V" vorm="pers.ind.ipf.sg.3.">oli</sone>
+<sone id="l67_s87" lemma="ja" liik="Konj">ja</sone> <sone id="l67_s88" lemma="kes" liik="Intr" vorm="sg.ad.">killel</sone>
+<sone id="l67_s88" lemma="kes" liik="Intr" vorm="sg.ad.">killel</sone> <sone id="l67_s89" lemma="olema" liik="V" vorm="pers.ind.ipf.pl.3.">olid</sone>
+<sone id="l87_s51" lemma="ikka" liik="Par">`ikka</sone> <sone id="l87_s52" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone>
+<sone id="l87_s52" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone> <sone id="l87_s53" lemma="laps" liik="S" vorm="sg.gen.">lapse</sone>
+<sone id="l87_s97" lemma="juba" liik="Adv">juba</sone> <sone id="l87_s99" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone>
+<sone id="l87_s99" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone> <sone id="l87_s100" lemma="nüüd" liik="Adv">nüid</sone>
+<sone id="l87_s129" lemma="inimene" liik="S" vorm="pl.nom.">inimest</sone> <sone id="l87_s131" lemma="kes" liik="Intr" vorm="pl.nom.">kiss</sone>
+<sone id="l87_s131" lemma="kes" liik="Intr" vorm="pl.nom.">kiss</sone> <sone id="l87_s132" lemma="seal" liik="ProAdv">seal</sone>
+<sone id="l87_s137" lemma="ja" liik="Konj">ja</sone> <sone id="l87_s138" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone>
+<sone id="l87_s138" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone> <sone id="l87_s139" lemma="laps" liik="S" vorm="sg.part.">last</sone>
+<sone id="l125_s16" liik="" meta="poolik sõna">ki-</sone> <sone id="l125_s17" lemma="kes" liik="Intr" vorm="sg.ad.">kille</sone>
+<sone id="l125_s17" lemma="kes" liik="Intr" vorm="sg.ad.">kille</sone> <sone id="l125_s18" lemma="sees" liik="Post">sees</sone>
+<sone id="l143_s21" lemma="sees" liik="Adv">sees</sone> <sone id="l143_s22" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l143_s22" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l143_s23" lemma="see" liik="ProS" vorm="sg.part.">seda</sone>
+<sone id="l13_s12" lemma="nemad" liik="ProS" vorm="pl.nom.">need</sone> <sone id="l13_s13" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l13_s13" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l13_s14" lemma="sedasi" liik="ProAdv">`seasi</sone>
+<sone id="l23_s26" lemma="ja" liik="Konj">ja</sone> <sone id="l23_s27" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l23_s27" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l23_s28" lemma="olema" liik="V" vorm="pers.ind.pr.neg.">pole</sone>
+<sone id="l23_s57" lemma="lükkama" liik="V" vorm="pers.ind.ipf.sg.2.">`lükkast</sone> <sone id="l23_s59" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone>
+<sone id="l23_s59" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone> <sone id="l23_s60" lemma="olema" liik="Va" vorm="pers.ind.pr.neg.">pole</sone>
+<sone id="l45_s4" lemma="pere+mees" liik="S" vorm="pl.nom.">pere+mehed</sone> <sone id="l45_s5" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone>
+<sone id="l45_s5" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone> <sone id="l45_s6" lemma="mees" liik="S" vorm="pl.nom.">mehed</sone>
+<sone id="l88_s87" lemma="juurde" liik="Post">`juure</sone> <sone id="l88_s88" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l88_s88" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l88_s89" lemma="vanem" liik="A" vorm="sg.nom.cmp.">vanem</sone>
+<sone id="l108_s2" lemma="näh" liik="Par">nähh</sone> <sone id="l108_s4" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l108_s4" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l108_s5" lemma="tahtma" liik="V" vorm="pers.ind.pr.sg.3.">tahab</sone>
+<sone id="l7_s119" lemma="ja" liik="Konj">ja</sone> <sone id="l7_s120" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l7_s120" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l7_s121" lemma="nõnda" liik="Adv">ninda</sone>
+<sone id="l13_s5" lemma="et" liik="Konj">et</sone> <sone id="l13_s6" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l13_s6" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l13_s7" lemma="nüüd" liik="ProAdv">nüid</sone>
+<sone id="l105_s35" lemma="mis" liik="Intr" vorm="sg.nom.">miss</sone> <sone id="l105_s36" lemma="kes" liik="Intr" vorm="sg.kom.">kennega</sone>
+<sone id="l105_s36" lemma="kes" liik="Intr" vorm="sg.kom.">kennega</sone> <sone id="l105_s38" lemma="tema" liik="ProS" vorm="sg.nom.">ta</sone>
+<sone id="l115_s32" lemma="ä" liik="Par">ä</sone> <sone id="l115_s34" lemma="kes" liik="ProS" vorm="sg.kom.">kenega</sone>
+<sone id="l115_s34" lemma="kes" liik="ProS" vorm="sg.kom.">kenega</sone> <sone id="l115_s35" lemma="sool" liik="S" vorm="sg.nom.">sool</sone>
+<sone id="l127_s57" lemma="aga" liik="Konj">aga</sone> <sone id="l127_s58" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l127_s58" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l127_s59" lemma="nüüd" liik="ProAdv">nüid</sone>
+<sone id="l162_s9" lemma="nüüd" liik="ProAdv">nüid</sone> <sone id="l162_s10" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l162_s10" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l162_s11" lemma="nüüd" liik="ProAdv">nüid</sone>
+<sone id="l164_s34" lemma="siis" liik="ProAdv">siis</sone> <sone id="l164_s35" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l164_s35" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l164_s36" lemma="see" liik="ProS" vorm="sg.part.">seda</sone>
+<sone id="l172_s18" lemma="ja" liik="Konj">ja</sone> <sone id="l172_s19" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l172_s19" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l172_s20" lemma="see" liik="ProS" vorm="sg.gen.">selle</sone>
+<sone id="l172_s41" lemma="tulema" liik="V" vorm="pers.ind.ipf.sg.3.">tull</sone> <sone id="l172_s42" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l172_s42" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l172_s43" lemma="see" liik="ProS" vorm="sg.gen.">senne</sone>
+<sone id="l17_s13" lemma="sees" liik="Post">sihes</sone> <sone id="l17_s14" lemma="kes" liik="Intr">kiss</sone>
+<sone id="l17_s14" lemma="kes" liik="Intr">kiss</sone> <sone id="l17_s16" lemma="teadma" liik="V" vorm="pers.ind.pr.sg.3.">täb</sone>
+<sone id="l56_s53" lemma="siit" liik="ProAdv">siit</sone> <sone id="l56_s54" lemma="kes" liik="Intr" vorm="sg.ad.">killel</sone>
+<sone id="l56_s54" lemma="kes" liik="Intr" vorm="sg.ad.">killel</sone> <sone id="l56_s55" lemma="es" liik="Mn">ess</sone>
+<sone id="l59_s29" lemma="jälle" liik="Adv">`jälle</sone> <sone id="l59_s30" lemma="kes" liik="Intr">kiss</sone>
+<sone id="l59_s30" lemma="kes" liik="Intr">kiss</sone> <sone id="l59_s31" lemma="tahtma" liik="V" vorm="pers.ind.ipf.pl.3.">`tahtsid</sone>
+<sone id="l119_s102" lemma="mees" liik="S" vorm="sg.nom.">mees</sone> <sone id="l119_s103" lemma="kes" liik="Intr" vorm="sg.part.">kedast</sone>
+<sone id="l119_s103" lemma="kes" liik="Intr" vorm="sg.part.">kedast</sone> <sone id="l119_s104" lemma="siis" liik="ProAdv">siss</sone>
+<sone id="l129_s212" lemma="tegema" liik="V" vorm="inf.">teha</sone> <sone id="l129_s213" lemma="kes" liik="Intr">kiss</sone>
+<sone id="l129_s213" lemma="kes" liik="Intr">kiss</sone> <sone id="l129_s214" lemma="surm" liik="S" tahendus="surnukeha" vorm="sg.gen.">surma</sone>
+<sone id="l129_s344" lemma="olema" liik="V" vorm="pers.ind.pr.neg.">pole</sone> <sone id="l129_s345" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l129_s345" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l129_s346" lemma="koju" liik="Adv">koju</sone>
+<sone id="l163_s51" lemma="teadma+ki" liik="V" vorm="pers.ind.pr.neg.">`teagid</sone> <sone id="l163_s52" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l163_s52" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l163_s54" lemma="nemad" liik="ProS" vorm="pl.nom.">nad</sone>
+<sone id="l191_s49" lemma="auto" liik="S" vorm="pl.nom.">outtud</sone> <sone id="l191_s50" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l191_s50" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l191_s51" lemma="ära" liik="Adva">ära</sone>
+<sone id="l200_s5" lemma="ja" liik="Konj">ja</sone> <sone id="l200_s6" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l200_s6" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l200_s8" lemma="teadma" liik="V" vorm="pers.ind.pr.sg.3.">täb</sone>
+<sone id="l224_s23" lemma="keegi" liik="ProS" vorm="sg.part.">kidad</sone> <sone id="l224_s24" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone>
+<sone id="l224_s24" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone> <sone id="l224_s25" lemma="ära" liik="Adva">ära</sone>
+<sone id="l234_s18" lemma="ning" liik="Konj">ning</sone> <sone id="l234_s19" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone>
+<sone id="l234_s19" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone> <sone id="l234_s20" lemma="nüüd" liik="Adv">nüid</sone>
+<sone id="l245_s72" lemma="see" liik="ProS" vorm="sg.nom.">see</sone> <sone id="l245_s73" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l245_s73" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l245_s74" lemma="võtma" liik="V" vorm="pers.ind.pr.sg.3.">vöttab</sone>
+<sone id="l50_s291" lemma="enam" liik="Adv">änam</sone> <sone id="l50_s292" lemma="kes" liik="Intr" vorm="pl.gen.">killette</sone>
+<sone id="l50_s292" lemma="kes" liik="Intr" vorm="pl.gen.">killette</sone> <sone id="l50_s293" lemma="silm" liik="S" vorm="pl.nom.">silmad</sone>
+<sone id="l50_s940" lemma="vaatama" liik="V" vorm="inf.">`vaatta</sone> <sone id="l50_s941" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l50_s941" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l50_s942" lemma="pidama" liik="V" vorm="pers.knd.pr.sg.3.">peaks</sone>
+<sone id="l52_s62" lemma="saadik" liik="Post">saadik</sone> <sone id="l52_s64" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone>
+<sone id="l52_s64" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone> <sone id="l52_s66" lemma="hobune" liik="S" vorm="sg.ad.">obusel</sone>
+<sone id="l52_s79" lemma="ning" liik="Konj">ning</sone> <sone id="l52_s80" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l52_s80" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l52_s81" lemma="hobune" liik="S" vorm="sg.gen.">obuse</sone>
+<lause id="l65" koneleja="KJ"> <sone id="l65_s1" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l65_s1" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l65_s2" lemma="tüür" liik="S" vorm="sg.gen.">tüiri</sone>
+<sone id="l14_s64" lemma="aga" liik="Konj">aga</sone> <sone id="l14_s65" lemma="kes" liik="Intr">kess</sone>
+<sone id="l14_s65" lemma="kes" liik="Intr">kess</sone> <sone id="l14_s66" lemma="see" liik="ProS" vorm="sg.part.">seda</sone>
+<sone id="l34_s267" lemma="no" liik="Par">noo</sone> <sone id="l34_s269" lemma="kes" liik="Intr">kess</sone>
+<sone id="l34_s269" lemma="kes" liik="Intr">kess</sone> <sone id="l34_s270" lemma="see" liik="ProS" vorm="sg.part.">seda</sone>
+<sone id="l38_s103" lemma="aga" liik="Konj">aga</sone> <sone id="l38_s104" lemma="kes" liik="Intr">kess</sone>
+<sone id="l38_s104" lemma="kes" liik="Intr">kess</sone> <sone id="l38_s105" lemma="ikka" liik="Adv">ikka</sone>
+<sone id="l44_s16" lemma="mõrd" liik="S" vorm="pl.nom.">mörrad</sone> <sone id="l44_s17" lemma="kes" liik="Intr" vorm="sg.ad.">killel</sone>
+<sone id="l44_s17" lemma="kes" liik="Intr" vorm="sg.ad.">killel</sone> <sone id="l44_s18" lemma="olema" liik="V" vorm="pers.ind.ipf.pl.3.">olid</sone>
+<sone id="l61_s12" lemma="ikka" liik="Adv">ikka</sone> <sone id="l61_s14" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l61_s14" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l61_s15" lemma="ikka" liik="Adv">ikka</sone>
+<sone id="l81_s28" lemma="ju" liik="Par">ju</sone> <sone id="l81_s30" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l81_s30" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l81_s31" lemma="kurat" liik="Suht">kurrat</sone>
+<sone id="l81_s31" lemma="kurat" liik="Suht">kurrat</sone> <sone id="l81_s33" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l81_s33" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l81_s34" lemma="need" liik="ProS" vorm="pl.part.">neid</sone>
+<sone id="l99_s57" lemma="et" liik="Konj">et</sone> <sone id="l99_s59" lemma="kes" liik="Intr" vorm="sg.gen.">kelle</sone>
+<sone id="l99_s59" lemma="kes" liik="Intr" vorm="sg.gen.">kelle</sone> <sone id="l99_s60" lemma="see" liik="ProS" vorm="sg.nom.">see</sone>
+<sone id="l99_s62" lemma="olema" liik="V" vorm="pers.ind.pr.sg.3.">onn</sone> <sone id="l99_s64" lemma="kes" liik="Intr" vorm="sg.gen.">kelle</sone>
+<sone id="l99_s64" lemma="kes" liik="Intr" vorm="sg.gen.">kelle</sone> <sone id="l99_s65" lemma="see" liik="ProS" vorm="sg.nom.">see</sone>
+<sone id="l101_s8" lemma="olema" liik="V" vorm="pers.ind.ipf.sg.3.">oli</sone> <sone id="l101_s9" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone>
+<sone id="l101_s9" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone> <sone id="l101_s10" lemma="es" liik="Mn">ess</sone>
+<sone id="l113_s22" lemma="aga" liik="Konj">äga</sone> <sone id="l113_s23" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l113_s23" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l113_s24" lemma="see" liik="ProS" vorm="sg.part.">seda</sone>
+<sone id="l113_s198" lemma="püüdma" liik="V" vorm="ips.ind.pr.">`püittasse</sone> <sone id="l113_s200" lemma="kes" liik="Intr" vorm="sg.nom.">ke</sone>
+<sone id="l113_s200" lemma="kes" liik="Intr" vorm="sg.nom.">ke</sone> <sone id="l113_s201" lemma="ränd+püük" liik="S" vorm="sg.ad.">ränd+püigil</sone>
+<sone id="l119_s67" lemma="muidu" liik="Adv">muidu</sone> <sone id="l119_s68" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l119_s68" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l119_s70" lemma="see" liik="ProS" vorm="sg.nom.">se</sone>
+<sone id="l25_s6" lemma="pill" liik="S" vorm="sg.nom.">pil'l</sone> <sone id="l25_s8" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone>
+<sone id="l25_s8" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone> <sone id="l25_s9" lemma="olema" liik="V" vorm="pers.ind.ipf.sg.3.">oli</sone>
+<sone id="l25_s13" lemma="andma" liik="V" vorm="pers.ind.ipf.sg.3.">`andas</sone> <sone id="l25_s15" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone>
+<sone id="l25_s15" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone> <sone id="l25_s16" lemma="ei" liik="Mn">es</sone>
+<sone id="l107_s23" lemma="jälle" liik="Par">`jälle</sone> <sone id="l107_s25" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l107_s25" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l107_s27" lemma="see" liik="ProS" vorm="sg.nom.">se</sone>
+<lause id="l230" koneleja="KJ3"> <sone id="l230_s1" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l230_s1" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l230_s2" lemma="tahtma" liik="V" vorm="pers.ind.ipf.sg.3.">`tahtas</sone>
+<lause id="l231" koneleja="KJ1"> <sone id="l231_s1" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l231_s1" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l231_s2" lemma="tahtma" liik="V" vorm="pers.ind.ipf.sg.3.">`tahtas</sone>
+<sone id="l590_s3" lemma="e" liik="Par">e</sone> <sone id="l590_s4" lemma="kes" liik="Intr" vorm="sg.ad.">killel</sone>
+<sone id="l590_s4" lemma="kes" liik="Intr" vorm="sg.ad.">killel</sone> <sone id="l590_s5" lemma="ei" liik="Mn">es</sone>
+<sone id="l7_s66" lemma="miski" liik="ProS" vorm="sg.part.">medagid</sone> <sone id="l7_s68" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l7_s68" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l7_s69" lemma="harjuma" liik="V" vorm="nud.">`arjund</sone>
+<sone id="l9_s215" lemma="oh" liik="Par">oh</sone> <sone id="l9_s216" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone>
+<sone id="l9_s216" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone> <sone id="l9_s217" lemma="ihu" liik="S" vorm="pl.nom.">ihud</sone>
+<sone id="l18_s26" lemma="olema" liik="V" vorm="pers.ind.ipf.sg.3.">oli</sone> <sone id="l18_s28" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l18_s28" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l18_s30" lemma="see" liik="ProS" vorm="sg.nom.">se</sone>
+<sone id="l18_s36" lemma="ära" liik="Adva">ää</sone> <sone id="l18_s37" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l18_s37" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l18_s39" lemma="see" liik="ProS" vorm="sg.nom.">se</sone>
+<sone id="l22_s20" lemma="tark" liik="A" vorm="sg.part.">`tarkka</sone> <sone id="l22_s22" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l22_s22" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l22_s23" lemma="võtma" liik="V" vorm="pers.ind.ipf.sg.3.">`vöttas</sone>
+<sone id="l30_s77" lemma="ju" liik="Par">ju</sone> <sone id="l30_s78" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l30_s78" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l30_s79" lemma="muljuma" liik="V" vorm="pers.ind.ipf.sg.3.">`muljus</sone>
+<sone id="l30_s114" lemma="end" liik="Par">end</sone> <sone id="l30_s116" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l30_s116" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l30_s117" lemma="nüüd" liik="Adv">nüid</sone>
+<sone id="l32_s4" lemma="käima" liik="V" vorm="ips.ind.ipf.">`käidi</sone> <sone id="l32_s6" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l32_s6" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l32_s7" lemma="sedasi" liik="ProAdv">sedasi</sone>
+<sone id="l46_s38" lemma="tükk" liik="S" vorm="sg.part.">`tükki</sone> <sone id="l46_s39" lemma="kes" liik="Intr">kedast</sone>
+<sone id="l46_s39" lemma="kes" liik="Intr">kedast</sone> <sone id="l46_s40" lemma="kiskuma" liik="V" tahendus="nõelama" vorm="pers.ind.ipf.pl.3.">`keskusid</sone>
+<sone id="l50_s9" lemma="võtma" liik="V" vorm="ips.ind.ipf.">`vöötti</sone> <sone id="l50_s11" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone>
+<sone id="l50_s11" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone> <sone id="l50_s12" lemma="laps" liik="S" vorm="pl.nom.">lapsed</sone>
+<sone id="l54_s77" lemma="mõni" liik="ProS" vorm="sg.ad.">menel</sone> <sone id="l54_s78" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l54_s78" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l54_s79" lemma="sedasi" liik="ProAdv">sedasi</sone>
+<sone id="l56_s134" lemma="ning" liik="Konj">ning</sone> <sone id="l56_s135" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l56_s135" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l56_s136" lemma="teine" liik="ProS" vorm="sg.gen.">teise</sone>
+<sone id="l56_s173" lemma="aga" liik="Konj">ääga</sone> <sone id="l56_s175" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l56_s175" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l56_s177" lemma="kui" liik="Konj">kui</sone>
+<sone id="l58_s29" lemma="palve+maja" liik="S" vorm="sg.ill.">`palve+maease</sone> <sone id="l58_s31" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l58_s31" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l58_s32" lemma="kõige" liik="Ms">käige</sone>
+<sone id="l58_s273" lemma="jooks" liik="S" vorm="sg.kom.">joosuga</sone> <sone id="l58_s275" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l58_s275" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l58_s276" lemma="kõige" liik="Ms">käige</sone>
+<sone id="l79_s8" meta="kommentaar">köhatab</sone> <sone id="l79_s9" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone>
+<sone id="l79_s9" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone> <sone id="l79_s11" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone>
+<sone id="l79_s11" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone> <sone id="l79_s12" lemma="mina" liik="ProS" vorm="sg.ad.">mool</sone>
+<sone id="l139_s65" lemma="jõudma" liik="V" vorm="pers.ind.pr.neg.">jöva</sone> <sone id="l139_s67" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone>
+<sone id="l139_s67" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone> <sone id="l139_s69" lemma="ei" liik="Mn">es</sone>
+<sone id="l9_s6" lemma="ning" liik="Konj">ning</sone> <sone id="l9_s7" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone>
+<sone id="l9_s7" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone> <sone id="l9_s8" lemma="jõudma" liik="V" vorm="pers.ind.ipf.sg.3.">`jõudis</sone>
+<sone id="l13_s2" lemma="mees" liik="S" vorm="sg.nom.">mies</sone> <sone id="l13_s3" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone>
+<sone id="l13_s3" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone> <sone id="l13_s4" lemma="olema" liik="V" vorm="pers.ind.ipf.sg.3.">oli</sone>
+<sone id="l33_s3" lemma="aga" liik="Konj">a</sone> <sone id="l33_s4" lemma="kes" liik="Intr" vorm="sg.part.">kedä</sone>
+<sone id="l33_s4" lemma="kes" liik="Intr" vorm="sg.part.">kedä</sone> <sone id="l33_s5" lemma="võima" liik="V" vorm="pers.ind.pr.sg.3.">võib</sone>
+<sone id="l71_s34" lemma="kaotama" liik="V" vorm="nud.">`kaottan</sone> <sone id="l71_s35" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone>
+<sone id="l71_s35" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone> <sone id="l71_s36" lemma="see" liik="ProS" vorm="sg.nom.">sie</sone>
+<sone id="l71_s54" lemma="inimene" liik="S" vorm="pl.part.">inimesi</sone> <sone id="l71_s55" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l71_s55" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l71_s56" lemma="see" liik="ProS" vorm="sg.nom.">se</sone>
+<sone id="l83_s2" lemma="saama" liik="V" vorm="ips.ind.ipf.">`suadi</sone> <sone id="l83_s3" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone>
+<sone id="l83_s3" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone> <sone id="l83_s4" lemma="olema" liik="V" vorm="pers.ind.ipf.sg.3.">oli</sone>
+<sone id="l110_s29" lemma="küll" liik="Par">küll</sone> <sone id="l110_s30" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone>
+<sone id="l110_s30" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone> <sone id="l110_s31" lemma="mõni" liik="ProS" vorm="pl.nom.">mõnõd</sone>
+<sone id="l114_s2" lemma="kus" liik="Intr">kuss</sone> <sone id="l114_s5" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l114_s5" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l114_s6" lemma="see" liik="ProS" vorm="sg.part.">sedä</sone>
+<sone id="l158_s235" lemma="mäletama+ki" liik="V" vorm="pers.ind.pr.neg.">mälettägi</sone> <sone id="l158_s236" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l158_s236" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l158_s238" lemma="see" liik="ProS" vorm="sg.nom.">sie</sone>
+<sone id="l184_s4" lemma="kõik" liik="ProS" vorm="pl.ad.">`kõikkõl</sone> <sone id="l184_s5" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone>
+<sone id="l184_s5" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone> <sone id="l184_s7" lemma="e" liik="Par">e</sone>
+<sone id="l186_s2" lemma="mees" liik="S" vorm="sg.nom.">mies</sone> <sone id="l186_s3" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l186_s3" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l186_s4" lemma="see" liik="ProS" vorm="sg.nom.">se</sone>
+<sone id="l228_s12" lemma="teadma" liik="V" vorm="pers.ind.pr.neg.">tie</sone> <sone id="l228_s13" lemma="kes" liik="Intr" vorm="sg.part.">kedä</sone>
+<sone id="l228_s13" lemma="kes" liik="Intr" vorm="sg.part.">kedä</sone> </lause>
+<sone id="l236_s34" lemma="aga" liik="Konj">aga</sone> <sone id="l236_s35" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l236_s35" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l236_s36" lemma="need" liik="ProS" vorm="pl.part.">neid</sone>
+<sone id="l247_s13" lemma="olema" liik="V" vorm="pers.ind.pr.neg.">olõ</sone> <sone id="l247_s14" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l247_s14" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l247_s15" lemma="tuli" liik="S" vorm="sg.part.">tuld</sone>
+<sone id="l262_s4" lemma="ning" liik="Konj">ning</sone> <sone id="l262_s5" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone>
+<sone id="l262_s5" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone> <sone id="l262_s6" lemma="sugulane" liik="S" vorm="pl.nom.">sugulasõd</sone>
+<sone id="l262_s16" lemma="et" liik="Konj">ett</sone> <sone id="l262_s17" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone>
+<sone id="l262_s17" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone> <sone id="l262_s18" lemma="kelle" liik="ProS" vorm="sg.gen.">kelle</sone>
+<sone id="l266_s16" lemma="pere" liik="S" vorm="pl.nom.">pered</sone> <sone id="l266_s17" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone>
+<sone id="l266_s17" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone> <sone id="l266_s18" lemma="olema" liik="Va" vorm="pers.ind.pr.neg.">olõ</sone>
+<sone id="l284_s75" lemma="talbused" liik="S" tahendus="talgud" vorm="sg.ad.">`talbusõl</sone> <sone id="l284_s77" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l284_s77" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l284_s78" lemma="seal" liik="ProAdv">siäl</sone>
+<sone id="l306_s26" lemma="e" liik="Par">e-e</sone> <sone id="l306_s28" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone>
+<sone id="l306_s28" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone> <sone id="l306_s29" liik="" meta="poolik sõna">vae-</sone>
+<sone id="l306_s29" liik="" meta="poolik sõna">vae-</sone> <sone id="l306_s30" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone>
+<sone id="l306_s30" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone> <sone id="l306_s31" lemma="vaene" liik="A" vorm="pl.nom.">`vaõsõd</sone>
+<sone id="l306_s59" lemma="olema" liik="V" vorm="pers.ind.ipf.sg.3.">oli</sone> <sone id="l306_s60" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone>
+<sone id="l306_s60" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone> <sone id="l306_s62" lemma="e" liik="Par">e</sone>
+<sone id="l306_s65" lemma="olema" liik="V" vorm="pers.ind.ipf.sg.3.">oli</sone> <sone id="l306_s66" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone>
+<sone id="l306_s66" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone> <sone id="l306_s67" lemma="käima" liik="V" vorm="pers.ind.ipf.sg.3.">käüs</sone>
+<sone id="l312_s89" lemma="teenija" liik="S" vorm="pl.nom.">`tienijad</sone> <sone id="l312_s91" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l312_s91" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l312_s92" lemma="härg" liik="S" vorm="pl.kom.">`ärgegä</sone>
+<sone id="l373_s28" lemma="aga" liik="Konj">aga</sone> <sone id="l373_s29" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone>
+<sone id="l373_s29" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone> <sone id="l373_s30" lemma="need" liik="ProS" vorm="pl.nom.">ned</sone>
+<sone id="l373_s31" meta="kommentaar">köhatab</sone> <sone id="l373_s32" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone>
+<sone id="l373_s32" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone> <sone id="l373_s33" lemma="need" liik="ProS" vorm="pl.nom.">ned</sone>
+<lause id="l45" koneleja="KJ2"> <sone id="l45_s1" lemma="kes" liik="Intr" vorm="sg.gen.">kelle</sone>
+<sone id="l45_s1" lemma="kes" liik="Intr" vorm="sg.gen.">kelle</sone> <sone id="l45_s2" lemma="maa" liik="S" vorm="sg.el.">muast</sone>
+<sone id="l46_s1" lemma="mõis" liik="S" vorm="sg.gen.">mõisa</sone> <sone id="l46_s3" lemma="kes" liik="Intr" vorm="sg.gen.">kelle</sone>
+<sone id="l46_s3" lemma="kes" liik="Intr" vorm="sg.gen.">kelle</sone> <sone id="l46_s4" lemma="maa" liik="S" vorm="sg.el.">muast</sone>
+<sone id="l51_s7" lemma="ju" liik="Par">ju</sone> <sone id="l51_s8" lemma="kes" liik="ProS" vorm="sg.nom.">kess</sone>
+<sone id="l51_s8" lemma="kes" liik="ProS" vorm="sg.nom.">kess</sone> <sone id="l51_s9" lemma="see" liik="ProS" vorm="sg.gen.">selle</sone>
+<sone id="l5_s47" kommentaar="`vasta akkatta" lemma="hakkama" liik="V" vorm="inf.">akkatta</sone> <sone id="l5_s49" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone>
+<sone id="l5_s49" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone> <sone id="l5_s50" lemma="e" liik="Par">e</sone>
+<sone id="l5_s171" lemma="siis" liik="ProAdv">sis</sone> <sone id="l5_s172" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone>
+<sone id="l5_s172" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone> <sone id="l5_s173" lemma="jälle" liik="Adv">jälle</sone>
+<sone id="l7_s5" lemma="kui" liik="Konj">kui</sone> <sone id="l7_s7" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone>
+<sone id="l7_s7" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone> <sone id="l7_s8" lemma="maa" liik="S" vorm="sg.part.">muad</sone>
+<sone id="l21_s9" lemma="sihuke" liik="ProA" vorm="sg.part.">`siokkõst</sone> <sone id="l21_s11" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone>
+<sone id="l21_s11" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone> <sone id="l21_s13" lemma="rääkima" liik="V" vorm="ips.ind.ipf.">riägitti</sone>
+<sone id="l28_s19" lemma="teie" liik="ProS" vorm="pl.nom.">te</sone> <sone id="l28_s21" lemma="kes" liik="Intr" vorm="sg.ad.">kell</sone>
+<sone id="l28_s21" lemma="kes" liik="Intr" vorm="sg.ad.">kell</sone> <sone id="l28_s22" lemma="põld" liik="S" vorm="sg.part.">`põldu</sone>
+<sone id="l32_s7" lemma="ka" liik="Par">kua</sone> <sone id="l32_s10" lemma="kes" liik="Intr" vorm="sg.ad.">kell</sone>
+<sone id="l32_s10" lemma="kes" liik="Intr" vorm="sg.ad.">kell</sone> <sone id="l32_s12" lemma="enam" liik="Adv">enäm</sone>
+<sone id="l40_s84" lemma="tegija" liik="S" vorm="sg.nom.">tegijä</sone> <sone id="l40_s85" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone>
+<sone id="l40_s85" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone> <sone id="l40_s86" lemma="harvasti" liik="Adv">arvast</sone>
+<sone id="l20_s8" lemma="tark" liik="A" vorm="pl.nom.">targad</sone> <sone id="l20_s10" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone>
+<sone id="l20_s10" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone> <sone id="l20_s11" lemma="ära" liik="Adva">ärä</sone>
+<sone id="l33_s29" lemma="viga" liik="S" vorm="sg.nom.">viga</sone> <sone id="l33_s30" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone>
+<sone id="l33_s30" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone> <sone id="l33_s31" lemma="ees+otsas" liik="Adv">ies+`otsas</sone>
+<sone id="l31_s5" lemma="ka" liik="Par">kua</sone> <sone id="l31_s6" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone>
+<sone id="l31_s6" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone> <sone id="l31_s7" lemma="aitama" liik="V" vorm="pers.ind.pr.sg.3.">`aittab</sone>
+<sone id="l5_s311" lemma="mäletama" liik="V" vorm="pers.ind.pr.neg.">mälettä</sone> <sone id="l5_s312" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone>
+<sone id="l5_s312" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone> <sone id="l5_s314" lemma="seal" liik="ProAdv">säl</sone>
+<sone id="l22_s58" lemma="või" liik="Konj">või</sone> <sone id="l22_s59" lemma="kes" liik="Intr" vorm="sg.gen.">kelle</sone>
+<sone id="l22_s59" lemma="kes" liik="Intr" vorm="sg.gen.">kelle</sone> <sone id="l22_s60" lemma="tema" liik="ProS" vorm="sg.nom.">ta</sone>
+<sone id="l38_s13" lemma="värk" liik="S" vorm="sg.nom.">vär'k</sone> <sone id="l38_s15" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone>
+<sone id="l38_s15" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone> <sone id="l38_s16" lemma="ikka" liik="Adv">`ikka</sone>
+<sone id="l12_s2" lemma="mis" liik="Intr" vorm="sg.nom.">miss</sone> <sone id="l12_s3" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone>
+<sone id="l12_s3" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone> <sone id="l12_s4" lemma="seal" liik="ProAdv">siäl</sone>
+<sone id="l74_s43" lemma="need" liik="ProS" vorm="pl.part.">neid</sone> <sone id="l74_s44" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone>
+<sone id="l74_s44" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone> <sone id="l74_s45" lemma="hakkama" liik="V" vorm="pers.ind.ipf.pl.3.">`akkavad</sone>
+<lause helipos="1004" id="l120" koneleja="KJ1"> <sone id="l120_s1" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l120_s1" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l120_s2" lemma="teadma" liik="V" vorm="pers.ind.pr.sg.3.">tiäb</sone>
+<sone id="l182_s75" lemma="olema" liik="V" vorm="sup.">olõma</sone> <sone id="l182_s77" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone>
+<sone id="l182_s77" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone> <sone id="l182_s78" lemma="mõistma" liik="V" tahendus="oskama" vorm="pers.ind.pr.sg.3.">mõestab</sone>
+<sone id="l182_s92" lemma="kokku" liik="Adva">kogo</sone> <sone id="l182_s93" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone>
+<sone id="l182_s93" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone> <sone id="l182_s95" lemma="võima" liik="V" vorm="pers.ind.ipf.pl.3.">võesid</sone>
+<sone id="l182_s110" lemma="aga" liik="Konj">aga</sone> <sone id="l182_s111" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone>
+<sone id="l182_s111" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone> <sone id="l182_s112" lemma="raud+lukk" liik="S" vorm="pl.nom.">raud+lukkid</sone>
+<sone id="l182_s125" lemma="proovima" liik="V" vorm="pers.imp.pr.sg.2.">`pruovi</sone> <sone id="l182_s126" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone>
+<sone id="l182_s126" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone> <sone id="l182_s127" kommentaar="kellel `lahti võttab" lemma="lahti" liik="Adva">`lahti</sone>
+<sone id="l183_s11" lemma="see" liik="ProS" vorm="sg.nom.">sie</sone> <sone id="l183_s12" lemma="kes" liik="ProS" vorm="sg.part.">kedäst</sone>
+<sone id="l183_s12" lemma="kes" liik="ProS" vorm="sg.part.">kedäst</sone> <sone id="l183_s13" lemma="varas" liik="S" vorm="sg.tr.">`vargaks</sone>
+<sone id="l346_s19" lemma="või" liik="Konj">või</sone> <sone id="l346_s20" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l346_s20" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l346_s21" lemma="teadma" liik="V" vorm="pers.ind.pr.sg.3.">tiäb</sone>
+<sone id="l358_s7" lemma="ka" liik="Par">kua</sone> <sone id="l358_s9" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone>
+<sone id="l358_s9" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone> <sone id="l358_s10" lemma="sihuke" liik="ProA" vorm="pl.nom.">`siuksed</sone>
+<sone id="l1_s22" lemma="tasku" liik="S" vorm="sg.in.">`taskus</sone> <sone id="l1_s24" lemma="kes" liik="Intr" vorm="sg.ad.">kessel</sone>
+<sone id="l1_s24" lemma="kes" liik="Intr" vorm="sg.ad.">kessel</sone> <sone id="l1_s25" lemma="olema" liik="V" vorm="pers.ind.ipf.sg.3.">oli</sone>
+<sone id="l1_s29" lemma="jagu" liik="S" vorm="sg.part.">jägu</sone> <sone id="l1_s31" lemma="kes" liik="Intr" vorm="sg.ad.">kessel</sone>
+<sone id="l1_s31" lemma="kes" liik="Intr" vorm="sg.ad.">kessel</sone> <sone id="l1_s32" lemma="olema" liik="Va" vorm="pers.ind.pr.neg.">pole</sone>
+<sone id="l1_s94" lemma="jälle" liik="Adv">`jälle</sone> <sone id="l1_s95" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l1_s95" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l1_s96" lemma="seal" liik="ProAdv">sääl</sone>
+<sone id="l1_s98" lemma="olema" liik="V" vorm="pers.ind.ipf.pl.3.">olid</sone> <sone id="l1_s100" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l1_s100" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l1_s101" lemma="kõige" liik="Ms">köige</sone>
+<sone id="l1_s227" lemma="siis" liik="ProAdv">siis</sone> <sone id="l1_s228" lemma="kes" liik="Intr" vorm="sg.part.">keda</sone>
+<sone id="l1_s228" lemma="kes" liik="Intr" vorm="sg.part.">keda</sone> <sone id="l1_s229" lemma="kätte" liik="Adva">käde</sone>
+<sone id="l4_s84" lemma="ja" liik="Konj">ja</sone> <sone id="l4_s86" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l4_s86" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l4_s87" lemma="need" liik="ProS" vorm="pl.nom.">need</sone>
+<sone id="l11_s99" lemma="siis" liik="ProAdv">siss</sone> <sone id="l11_s101" lemma="kes" liik="Intr" vorm="sg.ad.">kessel</sone>
+<sone id="l11_s101" lemma="kes" liik="Intr" vorm="sg.ad.">kessel</sone> <sone id="l11_s102" lemma="nüüd" liik="Adv">nid</sone>
+<sone id="l19_s83" lemma="saama" liik="V" vorm="pers.ind.ipf.sg.3.">sai</sone> <sone id="l19_s85" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l19_s85" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l19_s86" lemma="olema" liik="V" vorm="pers.ind.ipf.sg.3.">oli</sone>
+<sone id="l19_s94" lemma="ja" liik="Konj">ja</sone> <sone id="l19_s95" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l19_s95" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l19_s96" lemma="olema" liik="V" vorm="pers.ind.ipf.sg.3.">oli</sone>
+<sone id="l21_s95" lemma="põrand" liik="S" vorm="pl.nom.">pörandad</sone> <sone id="l21_s97" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone>
+<sone id="l21_s97" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone> <sone id="l21_s98" lemma="see" liik="ProS" vorm="sg.part.">seda</sone>
+<sone id="l26_s28" lemma="küll" liik="ModAdv">küll</sone> <sone id="l26_s30" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l26_s30" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l26_s31" lemma="teadma" liik="V" vorm="pers.ind.pr.sg.3.">tiab</sone>
+<sone id="l32_s214" lemma="olema" liik="V" vorm="pers.ind.ipf.sg.3.">oli</sone> <sone id="l32_s216" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l32_s216" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l32_s217" lemma="jumala+sulane" liik="S" vorm="sg.nom.">jumala+sulane</sone>
+<sone id="l34_s209" lemma="järjest" liik="Adv">järjest</sone> <sone id="l34_s211" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l34_s211" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l34_s212" lemma="see" liik="ProS" vorm="sg.nom.">see</sone>
+<sone id="l36_s82" lemma="peo" liik="S" vorm="sg.in.">püus</sone> <sone id="l36_s84" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l36_s84" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l36_s85" lemma="vähegi" liik="Adv">vähegi</sone>
+<sone id="l3_s294" lemma="vana+eit" liik="S" vorm="sg.nom.">vana+eit</sone> <sone id="l3_s295" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l3_s295" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l3_s296" lemma="nüüd" liik="Adv">nüd</sone>
+<sone id="l3_s396" lemma="see" liik="ProS" vorm="sg.nom.">sie</sone> <sone id="l3_s398" lemma="kes" liik="Intr" vorm="sg.kom.">kellega</sone>
+<sone id="l3_s398" lemma="kes" liik="Intr" vorm="sg.kom.">kellega</sone> <sone id="l3_s399" lemma="tema" liik="ProS" vorm="sg.nom.">taa</sone>
+<sone id="l11_s160" lemma="aga" liik="Konj">aga</sone> <sone id="l11_s161" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone>
+<sone id="l11_s161" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone> <sone id="l11_s162" lemma="jälle" liik="Adv">jällä</sone>
+<sone id="l51_s10" lemma="vaatama" liik="V" vorm="pers.imp.pr.sg.2.">vatta</sone> <sone id="l51_s11" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l51_s11" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l51_s12" lemma="need" liik="ProS" vorm="pl.gen.">nende</sone>
+<sone id="l60_s89" lemma="see" liik="ProS" vorm="sg.all.">sellele</sone> <sone id="l60_s90" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone>
+<sone id="l60_s90" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone> <sone id="l60_s91" lemma="seal" liik="ProAdv">seal</sone>
+<sone id="l60_s112" lemma="seltsis" liik="Adv">`seltsis</sone> <sone id="l60_s113" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l60_s113" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l60_s114" lemma="kauplema" liik="V" vorm="pers.ind.ipf.sg.3.">`kauples</sone>
+<sone id="l64_s121" lemma="ütlema" liik="V" vorm="pers.ind.pr.sg.3.">`ütleb</sone> <sone id="l64_s123" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone>
+<sone id="l64_s123" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone> <sone id="l64_s124" lemma="olema" liik="V" vorm="pers.ind.ipf.pl.3.">`ollid</sone>
+<sone id="l68_s60" lemma="mees" liik="S" vorm="sg.nom.">mies</sone> <sone id="l68_s61" lemma="kes" liik="ProS" vorm="sg.ad.">kell</sone>
+<sone id="l68_s61" lemma="kes" liik="ProS" vorm="sg.ad.">kell</sone> <sone id="l68_s62" lemma="raud+vanker" liik="S" vorm="sg.nom.">raud+`vankker</sone>
+<sone id="l70_s709" lemma="mees" liik="S" vorm="sg.all.">mehele</sone> <sone id="l70_s710" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l70_s710" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l70_s711" lemma="tema" liik="ProS" vorm="sg.nom.">taa</sone>
+<sone id="l76_s21" lemma="mees" liik="S" vorm="sg.nom.">mies</sone> <sone id="l76_s22" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l76_s22" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l76_s23" lemma="tema" liik="ProS" vorm="sg.ad.">taal</sone>
+<sone id="l86_s129" lemma="mitte" liik="Mn">`mette</sone> <sone id="l86_s131" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l86_s131" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l86_s132" lemma="tahtma" liik="V" vorm="pers.ind.ipf.sg.3.">`tahtis</sone>
+<sone id="l88_s31" lemma="ja" liik="Konj">ja</sone> <sone id="l88_s32" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone>
+<sone id="l88_s32" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone> <sone id="l88_s33" lemma="mere+äärne" liik="A" vorm="sg.nom.">mere+`earne</sone>
+<sone id="l11_s102" lemma="hobune" liik="S" vorm="pl.nom.">uost</sone> <sone id="l11_s104" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l11_s104" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l11_s105" lemma="ikka" liik="Par">`ikka</sone>
+<sone id="l31_s51" lemma="küla" liik="S" vorm="sg.el.">külast</sone> <sone id="l31_s53" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone>
+<sone id="l31_s53" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone> <sone id="l31_s54" lemma="kana" liik="S" vorm="sg.nom.">kana</sone>
+<sone id="l31_s127" lemma="tema" liik="ProS" vorm="sg.all.">taale</sone> <sone id="l31_s129" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone>
+<sone id="l31_s129" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone> <sone id="l31_s130" lemma="kaudu" liik="Post">kaudu</sone>
+<sone id="l51_s14" lemma="ja" liik="Konj">ja</sone> <sone id="l51_s15" lemma="kes" liik="Intr" vorm="sg.ad.">kell</sone>
+<sone id="l51_s15" lemma="kes" liik="Intr" vorm="sg.ad.">kell</sone> <sone id="l51_s16" lemma="vali" liik="A" tahendus="kõva, tugev" vorm="pl.nom.">valjud</sone>
+<sone id="l63_s23" lemma="kaduma" liik="V" vorm="nud.">kadun</sone> <sone id="l63_s25" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone>
+<sone id="l63_s25" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone> <sone id="l63_s26" lemma="teadma" liik="V" vorm="pers.ind.pr.sg.3.">teab</sone>
+<sone id="l67_s12" lemma="üks+kõik" liik="Par">üks+kõik</sone> <sone id="l67_s13" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l67_s13" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l67_s14" lemma="lõikama" liik="V" vorm="pers.ind.ipf.sg.3.">`lõikkas</sone>
+<sone id="l101_s12" lemma="nohh" liik="Par">nohh</sone> <sone id="l101_s14" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone>
+<sone id="l101_s14" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone> <sone id="l101_s15" lemma="olema" liik="V" vorm="pers.ind.pr.neg.">põle</sone>
+<sone id="l53_s61" lemma="vend" liik="S" vorm="sg.nom.">vend</sone> <sone id="l53_s63" lemma="kes" liik="ProS" vorm="sg.nom.">kess</sone>
+<sone id="l53_s63" lemma="kes" liik="ProS" vorm="sg.nom.">kess</sone> <sone id="l53_s64" lemma="laud" liik="S" vorm="sg.gen.">lauwa</sone>
+<sone id="l67_s50" lemma="üks+kõik" liik="Par">üks+kõik</sone> <sone id="l67_s51" lemma="kes" liik="ProS" vorm="sg.all.">kellele</sone>
+<sone id="l67_s51" lemma="kes" liik="ProS" vorm="sg.all.">kellele</sone> </lause>
+<sone id="l91_s31" lemma="andma" liik="V" vorm="sup.">`andma</sone> <sone id="l91_s33" lemma="kes" liik="ProS" vorm="sg.nom.">kiss</sone>
+<sone id="l91_s33" lemma="kes" liik="ProS" vorm="sg.nom.">kiss</sone> <sone id="l91_s34" lemma="andma" liik="V" vorm="pers.ind.ipf.sg.3.">`andas</sone>
+<sone id="l91_s36" lemma="kinnas" liik="S" vorm="pl.part.">`kindud</sone> <sone id="l91_s38" lemma="kes" liik="ProS" vorm="sg.nom.">kiss</sone>
+<sone id="l91_s38" lemma="kes" liik="ProS" vorm="sg.nom.">kiss</sone> <sone id="l91_s39" lemma="pihk" liik="S" vorm="sg.kom.">`peoga</sone>
+<sone id="l91_s41" lemma="ja" liik="Konj">ja</sone> <sone id="l91_s42" lemma="kes" liik="ProS" vorm="sg.nom.">kiss</sone>
+<sone id="l91_s42" lemma="kes" liik="ProS" vorm="sg.nom.">kiss</sone> <sone id="l91_s43" lemma="üks+kõik" liik="Par">üks+kõik</sone>
+<sone id="l111_s387" lemma="see" liik="ProS" vorm="sg.part.">seda</sone> <sone id="l111_s388" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l111_s388" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l111_s390" lemma="vahel" liik="Adv">vahel</sone>
+<sone id="l113_s207" lemma="nemad" liik="ProS" vorm="pl.ad.">nendel</sone> <sone id="l113_s208" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l113_s208" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l113_s209" lemma="siin" liik="ProAdv">sii</sone>
+<sone id="l133_s16" lemma="need" liik="ProS" vorm="pl.nom.">nee</sone> <sone id="l133_s17" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone>
+<sone id="l133_s17" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone> <sone id="l133_s18" lemma="siis" liik="ProAdv">siss</sone>
+<sone id="l173_s50" lemma="siis" liik="ProAdv">siiss</sone> <sone id="l173_s52" lemma="kes" liik="ProS" vorm="sg.ad.">kellel</sone>
+<sone id="l173_s52" lemma="kes" liik="ProS" vorm="sg.ad.">kellel</sone> <sone id="l173_s53" lemma="see" liik="ProS" vorm="sg.part.">seda</sone>
+<sone id="l179_s29" lemma="enam" liik="Adv">änam</sone> <sone id="l179_s30" lemma="kes" liik="ProS" vorm="sg.part.">kedad</sone>
+<sone id="l179_s30" lemma="kes" liik="ProS" vorm="sg.part.">kedad</sone> <sone id="l179_s32" lemma="mina" liik="ProS" vorm="sg.nom.">maa</sone>
+<sone id="l51_s3" lemma="vakk" liik="S" vorm="sg.part.">`vakka</sone> <sone id="l51_s5" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l51_s5" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l51_s6" lemma="teadma" liik="V" vorm="pers.ind.pr.sg.3.">tiab</sone>
+<sone id="l14_s15" lemma="järel" liik="Adva">järel</sone> <sone id="l14_s16" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l14_s16" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l14_s17" lemma="viima" liik="V" vorm="pers.ind.ipf.pl.3.">viisid</sone>
+<sone id="l14_s129" lemma="alles" liik="Adv">alles</sone> <sone id="l14_s131" lemma="kes" liik="ProS" vorm="sg.kom.">kellega</sone>
+<sone id="l14_s131" lemma="kes" liik="ProS" vorm="sg.kom.">kellega</sone> <sone id="l14_s132" lemma="meie" liik="ProS" vorm="sg.nom.">mee</sone>
+<sone id="l42_s9" lemma="ka" liik="Par">kaa</sone> <sone id="l42_s10" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l42_s10" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l42_s11" lemma="suvi" liik="S" vorm="sg.nom.">sui</sone>
+<sone id="l42_s13" lemma="olema" liik="V" vorm="pers.ind.ipf.pl.3.">`ollid</sone> <sone id="l42_s15" lemma="kes" liik="ProS" vorm="sg.ad.">kellel</sone>
+<sone id="l42_s15" lemma="kes" liik="ProS" vorm="sg.ad.">kellel</sone> <sone id="l42_s16" lemma="olema" liik="V" vorm="pers.ind.ipf.pl.3.">`ollid</sone>
+<lause id="l46" koneleja="KJ"> <sone id="l46_s1" lemma="kes" liik="ProS" vorm="sg.gen.">kelle</sone>
+<sone id="l46_s1" lemma="kes" liik="ProS" vorm="sg.gen.">kelle</sone> <sone id="l46_s2" lemma="meel" liik="S" vorm="sg.in.">`mieles</sone>
+<sone id="l56_s6" lemma="pealt" liik="Post">pialt</sone> <sone id="l56_s7" lemma="kes" liik="ProS" vorm="sg.nom.">kiss</sone>
+<sone id="l56_s7" lemma="kes" liik="ProS" vorm="sg.nom.">kiss</sone> <sone id="l56_s8" lemma="üle" liik="Adva">üle</sone>
+<sone id="l100_s1" lemma="ei" liik="Mn">ei</sone> <sone id="l100_s3" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l100_s3" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l100_s5" lemma="see" liik="ProS" vorm="sg.part.">seda</sone>
+<sone id="l139_s5" lemma="laps" liik="S" vorm="pl.nom.">lapsed</sone> <sone id="l139_s6" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone>
+<sone id="l139_s6" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone> <sone id="l139_s7" lemma="tahtma" liik="V" vorm="pers.ind.ipf.pl.3.">`tahtsid</sone>
+<sone id="l149_s4" lemma="ise" liik="ProS" vorm="sg.nom.">ise</sone> <sone id="l149_s5" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone>
+<sone id="l149_s5" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone> <sone id="l149_s6" lemma="seal" liik="ProAdv">sial</sone>
+<sone id="l179_s6" lemma="ühte+moodi" liik="ProAdv">`ühte+`moodi</sone> <sone id="l179_s7" lemma="kes" liik="ProS" vorm="sg.nom.">kiss</sone>
+<sone id="l179_s7" lemma="kes" liik="ProS" vorm="sg.nom.">kiss</sone> <sone id="l179_s8" lemma="aga" liik="Konj">aga</sone>
+<sone id="l189_s7" kommentaar="" lemma="lahti" liik="Adv">`lahti</sone> <sone id="l189_s8" lemma="kes" liik="ProS" vorm="sg.nom.">kiss</sone>
+<sone id="l189_s8" lemma="kes" liik="ProS" vorm="sg.nom.">kiss</sone> <sone id="l189_s9" lemma="see" liik="ProS" vorm="sg.part.">seda</sone>
+<sone id="l195_s45" lemma="nemad" liik="ProS" vorm="pl.ad.">nendel</sone> <sone id="l195_s46" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone>
+<sone id="l195_s46" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone> <sone id="l195_s47" lemma="tuba" liik="S" vorm="sg.in.">tuas</sone>
+<sone id="l205_s6" lemma="küll" liik="Par">küll</sone> <sone id="l205_s7" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone>
+<sone id="l205_s7" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone> <sone id="l205_s9" lemma="see" liik="ProS" vorm="sg.nom.">se</sone>
+<sone id="l205_s20" lemma="see" liik="ProS" vorm="sg.ad.">sellel</sone> <sone id="l205_s21" lemma="kes" liik="ProS" vorm="sg.ad.">kellel</sone>
+<sone id="l205_s21" lemma="kes" liik="ProS" vorm="sg.ad.">kellel</sone> <sone id="l205_s22" lemma="selg" liik="S" vorm="sg.ill.">`selga</sone>
+<sone id="l241_s6" lemma="arvama" liik="V" vorm="pers.imp.pr.sg.2.">`arva</sone> <sone id="l241_s8" lemma="kes" liik="ProS" vorm="sg.ad.">kellel</sone>
+<sone id="l241_s8" lemma="kes" liik="ProS" vorm="sg.ad.">kellel</sone> <sone id="l241_s10" lemma="mina" liik="ProS" vorm="sg.ad.">mool</sone>
+<sone id="l22_s36" lemma="mees" liik="S" vorm="sg.nom.">mies</sone> <sone id="l22_s37" lemma="kes" liik="ProS" vorm="sg.nom.">kess</sone>
+<sone id="l22_s37" lemma="kes" liik="ProS" vorm="sg.nom.">kess</sone> <sone id="l22_s38" lemma="katsuma" liik="V" vorm="pers.ind.pr.sg.3.">katsub</sone>
+<sone id="l54_s1" lemma="jahh" liik="Par">jahh</sone> <sone id="l54_s3" lemma="kes" liik="ProS" vorm="sg.nom.">kess</sone>
+<sone id="l54_s3" lemma="kes" liik="ProS" vorm="sg.nom.">kess</sone> <sone id="l54_s4" lemma="teadma" liik="V" vorm="pers.ind.pr.sg.3.">teab</sone>
+<sone id="l135_s6" lemma="nohh" liik="Par">nohh</sone> <sone id="l135_s7" lemma="kes" liik="ProS" vorm="sg.nom.">kess</sone>
+<sone id="l135_s7" lemma="kes" liik="ProS" vorm="sg.nom.">kess</sone> <sone id="l135_s8" lemma="esimene" liik="Numj" vorm="sg.part.">esimist</sone>
+<sone id="l218_s1" lemma="ei" liik="Mn">ei</sone> <sone id="l218_s3" lemma="kes" liik="ProS" vorm="sg.nom.">kess</sone>
+<sone id="l218_s3" lemma="kes" liik="ProS" vorm="sg.nom.">kess</sone> <sone id="l218_s4" lemma="saun" liik="S" vorm="sg.ill.">`sauna</sone>
+<sone id="l220_s4" lemma="et" liik="Konj">ett</sone> <sone id="l220_s6" lemma="kes" liik="ProS" vorm="sg.nom.">kess</sone>
+<sone id="l220_s6" lemma="kes" liik="ProS" vorm="sg.nom.">kess</sone> <sone id="l220_s7" lemma="tahtma" liik="V" vorm="pers.ind.ipf.sg.3.">`tahtis</sone>
+<sone id="l220_s9" lemma="rõõsalt" liik="Adv">rõõsalt</sone> <sone id="l220_s10" lemma="kes" liik="ProS" vorm="sg.nom.">kess</sone>
+<sone id="l220_s10" lemma="kes" liik="ProS" vorm="sg.nom.">kess</sone> <sone id="l220_s11" lemma="tahtma" liik="V" vorm="pers.ind.ipf.sg.3.">`tahtis</sone>
+<sone id="l277_s3" lemma="nohh" liik="Par">nohh</sone> <sone id="l277_s4" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone>
+<sone id="l277_s4" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone> <sone id="l277_s5" lemma="tahtma" liik="V" vorm="pers.ind.ipf.sg.3.">`tahtis</sone>
+<sone id="l1_s123" lemma="meister" liik="S" vorm="sg.nom.">`möister</sone> <sone id="l1_s124" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l1_s124" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l1_s125" lemma="need" liik="ProS" vorm="pl.part.">neid</sone>
+<sone id="l3_s413" liik="" meta="poolik sõna">ko-</sone> <sone id="l3_s415" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l3_s415" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l3_s416" lemma="vaene" liik="A" vorm="sg.nom.cmp.">`vaesem</sone>
+<sone id="l47_s103" lemma="kala" liik="S" vorm="sg.part.">kala</sone> <sone id="l47_s105" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l47_s105" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l47_s107" lemma="see" liik="ProS" vorm="sg.part.">seda</sone>
+<sone id="l49_s129" lemma="vaat" liik="Par">vaat</sone> <sone id="l49_s131" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l49_s131" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l49_s133" lemma="ei" liik="Mn">ei</sone>
+<sone id="l77_s27" lemma="no" liik="Par">no</sone> <sone id="l77_s28" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l77_s28" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l77_s30" lemma="see" liik="ProS" vorm="sg.part.">seda</sone>
+<sone id="l3_s130" lemma="vaatama" liik="V" vorm="pers.imp.pr.sg.2.">`vaatta</sone> <sone id="l3_s131" lemma="kes" liik="Intr" vorm="sg.nom.">kea</sone>
+<sone id="l3_s131" lemma="kes" liik="Intr" vorm="sg.nom.">kea</sone> <sone id="l3_s133" lemma="see" liik="ProS" vorm="sg.nom.">see</sone>
+<sone id="l15_s18" lemma="olema" liik="V" vorm="pers.ind.ipf.sg.3.">oli</sone> <sone id="l15_s19" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l15_s19" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l15_s20" lemma="olema" liik="V" vorm="pers.ind.ipf.sg.3.">oli</sone>
+<sone id="l15_s29" lemma="ohh" liik="Par">ohh</sone> <sone id="l15_s30" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l15_s30" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l15_s31" lemma="olema" liik="V" vorm="pers.ind.ipf.sg.3.">oli</sone>
+<sone id="l15_s35" lemma="pere+naine" liik="S" vorm="sg.nom.">pere+naine</sone> <sone id="l15_s37" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l15_s37" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l15_s38" lemma="panema" liik="V" vorm="pers.ind.ipf.sg.3.">pani</sone>
+<sone id="l15_s44" lemma="kõvasti" liik="Adv">kövasti</sone> <sone id="l15_s46" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l15_s46" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l15_s47" lemma="panema" liik="V" vorm="pers.ind.ipf.sg.3.">pani</sone>
+<sone id="l15_s54" lemma="olema" liik="V" vorm="pers.ind.ipf.sg.3.">oli</sone> <sone id="l15_s55" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l15_s55" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l15_s56" lemma="olema" liik="V" vorm="pers.ind.ipf.sg.3.">oli</sone>
+<sone id="l23_s139" lemma="kui" liik="Konj">kui</sone> <sone id="l23_s140" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l23_s140" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l23_s141" lemma="olema" liik="Va" vorm="pers.ind.pr.neg.">pole</sone>
+<sone id="l39_s40" lemma="võtma" liik="V" vorm="ips.ind.ipf.">`vöötti</sone> <sone id="l39_s42" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l39_s42" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l39_s43" lemma="siis" liik="ProAdv">siis</sone>
+<sone id="l39_s83" lemma="see" liik="ProS" vorm="pl.nom.">need</sone> <sone id="l39_s85" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l39_s85" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l39_s86" lemma="see" liik="ProS" vorm="pl.nom.">nee</sone>
+<sone id="l47_s458" lemma="olema" liik="V" vorm="pers.ind.ipf.pl.3.">olid</sone> <sone id="l47_s459" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l47_s459" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l47_s460" lemma="püüdma" liik="V" vorm="pers.ind.ipf.pl.3.">`püidast</sone>
+<sone id="l50_s104" lemma="see" liik="ProS" vorm="pl.nom.">need</sone> <sone id="l50_s106" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l50_s106" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l50_s107" lemma="olema" liik="Va" vorm="pers.ind.ipf.pl.3.">olid</sone>
+<sone id="l50_s368" lemma="siis" liik="ProAdv">siss</sone> <sone id="l50_s370" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l50_s370" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l50_s372" lemma="tema" liik="ProS" vorm="sg.nom.">ta</sone>
+<sone id="l50_s783" lemma="ema" liik="S" vorm="sg.nom.">ema</sone> <sone id="l50_s784" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l50_s784" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l50_s785" lemma="kaar" liik="S" vorm="pl.part.">`kaari</sone>
+<sone id="l50_s785" lemma="kaar" liik="S" vorm="pl.part.">`kaari</sone> <sone id="l50_s786" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l50_s786" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l50_s787" lemma="see" liik="ProS" vorm="pl.part.">neid</sone>
+<sone id="l50_s795" lemma="see" liik="ProS" vorm="sg.nom.">see</sone> <sone id="l50_s797" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l50_s797" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l50_s798" lemma="kustutama" liik="V" vorm="pers.ind.ipf.sg.3.">kustuttas</sone>
+<sone id="l50_s802" lemma="see" liik="ProS" vorm="sg.nom.">see</sone> <sone id="l50_s804" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l50_s804" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l50_s805" lemma="sealt" liik="ProAdv">säält</sone>
+<sone id="l54_s229" lemma="ütlema" liik="V" vorm="pers.ind.ipf.sg.1.">`itlesi</sone> <sone id="l54_s231" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l54_s231" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l54_s232" lemma="olema" liik="V" vorm="pers.ind.ipf.pl.3.">olid</sone>
+<sone id="l54_s246" lemma="ahi" liik="S" vorm="pl.nom.">ahjud</sone> <sone id="l54_s247" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l54_s247" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l54_s248" lemma="jääma" liik="V" vorm="pers.ind.ipf.pl.3.">jähid</sone>
+<sone id="l58_s42" lemma="aga" liik="Konj">aga</sone> <sone id="l58_s43" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l58_s43" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l58_s45" lemma="siis" liik="ProAdv">siis</sone>
+<sone id="l67_s148" lemma="olema" liik="V" vorm="pers.ind.ipf.sg.3.">oli</sone> <sone id="l67_s149" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l67_s149" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l67_s150" lemma="see" liik="ProS" vorm="sg.nom.">see</sone>
+<sone id="l67_s189" lemma="isik" liik="S" vorm="sg.gen.">isikku</sone> <sone id="l67_s191" lemma="kes" liik="Intr" vorm="sg.part.">kedast</sone>
+<sone id="l67_s191" lemma="kes" liik="Intr" vorm="sg.part.">kedast</sone> <sone id="l67_s192" lemma="viima" liik="V" vorm="ips.ind.ipf.">`viidi</sone>
+<sone id="l69_s100" lemma="küll" liik="Par">küll</sone> <sone id="l69_s101" lemma="kes" liik="Intr" vorm="sg.ad.">kessel</sone>
+<sone id="l69_s101" lemma="kes" liik="Intr" vorm="sg.ad.">kessel</sone> <sone id="l69_s103" lemma="olema" liik="Va" vorm="pers.ind.pr.neg.">pole</sone>
+<sone id="l26_s93" lemma="vat" liik="Par">vat</sone> <sone id="l26_s94" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l26_s94" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l26_s95" lemma="olema" liik="V" vorm="pers.ind.ipf.sg.3.">oli</sone>
+<sone id="l26_s100" lemma="üksi" liik="Adv">üksi</sone> <sone id="l26_s102" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone>
+<sone id="l26_s102" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone> <sone id="l26_s103" lemma="poeg" liik="S" vorm="sg.nom.">poeg</sone>
+<sone id="l122_s1" lemma="aga" liik="Konj">aga</sone> <sone id="l122_s2" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l122_s2" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l122_s3" lemma="olema" liik="V" vorm="pers.knd.pr.">oleks</sone>
+<sone id="l88_s3" lemma="näh" liik="Par">näh</sone> <sone id="l88_s4" lemma="kes" liik="Intr" vorm="pl.nom.">kessid</sone>
+<sone id="l88_s4" lemma="kes" liik="Intr" vorm="pl.nom.">kessid</sone> <sone id="l88_s5" liik="" meta="poolik sõna">mi-</sone>
+<sone id="l18_s5" lemma="maksma" liik="V" vorm="ips.ind.pr.">maksetti</sone> <sone id="l18_s6" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l18_s6" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l18_s8" lemma="mina" liik="ProS" vorm="sg.nom.">mina</sone>
+<sone id="l18_s12" lemma="ütlema" liik="V" vorm="inf.">üttelda</sone> <sone id="l18_s13" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l18_s13" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l18_s14" lemma="teadma" liik="V" vorm="pers.ind.pr.sg.3.">tääb</sone>
+<sone id="l20_s9" lemma="et" liik="Konj">et</sone> <sone id="l20_s11" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l20_s11" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l20_s12" liik="" meta="poolik sõna">ta-</sone>
+<sone id="l20_s12" liik="" meta="poolik sõna">ta-</sone> <sone id="l20_s13" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone>
+<sone id="l20_s13" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone> <sone id="l20_s14" lemma="mets" liik="S" vorm="sg.nom.">mets</sone>
+<sone id="l20_s28" lemma="et" liik="Konj">et</sone> <sone id="l20_s29" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone>
+<sone id="l20_s29" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone> <sone id="l20_s31" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone>
+<sone id="l20_s31" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone> <sone id="l20_s32" lemma="mets" liik="S" vorm="sg.nom.">mets</sone>
+<sone id="l31_s11" lemma="need" liik="ProS" vorm="pl.nom.">need</sone> <sone id="l31_s13" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l31_s13" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l31_s14" lemma="käima" liik="V" vorm="pers.ind.ipf.pl.3.">`käisid</sone>
+<sone id="l52_s5" lemma="hulk" liik="S" vorm="sg.in.">`ulkkas</sone> <sone id="l52_s6" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l52_s6" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l52_s7" lemma="olema" liik="V" vorm="pers.ind.ipf.sg.3.">oli</sone>
+<sone id="l60_s12" lemma="jaani+rohi" liik="S" vorm="sg.nom.">jaani+rohi</sone> <sone id="l60_s14" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l60_s14" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l60_s15" lemma="need" liik="ProS" vorm="pl.part.">neid</sone>
+<sone id="l62_s22" lemma="ka" liik="Par">kaa</sone> <sone id="l62_s23" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l62_s23" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l62_s24" lemma="need" liik="ProS" vorm="pl.part.">neid</sone>
+<sone id="l64_s1" lemma="jahh" liik="Par">jahh</sone> <sone id="l64_s3" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone>
+<sone id="l64_s3" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone> <sone id="l64_s4" lemma="olema" liik="V" vorm="pers.ind.ipf.sg.3.">oli</sone>
+<sone id="l64_s11" lemma="aga" liik="Konj">aga</sone> <sone id="l64_s12" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone>
+<sone id="l64_s12" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone> <sone id="l64_s14" lemma="es" liik="Mn">es</sone>
+<sone id="l68_s27" lemma="sealt" liik="ProAdv">säält</sone> <sone id="l68_s28" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l68_s28" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l68_s29" lemma="tahtma" liik="V" vorm="pers.ind.ipf.sg.3.">`tahtas</sone>
+<sone id="l86_s13" lemma="ka" liik="Par">ka</sone> <sone id="l86_s14" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l86_s14" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l86_s16" lemma="siis" liik="ProAdv">sis</sone>
+<sone id="l257_s9" lemma="jootma" liik="V" vorm="tud.">joodettud</sone> <sone id="l257_s11" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l257_s11" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l257_s12" lemma="siis" liik="ProAdv">siis</sone>
+<sone id="l10_s2" lemma="olema" liik="V" vorm="pers.ind.pr.neg.">ole</sone> <sone id="l10_s4" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l10_s4" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l10_s5" lemma="tahtma" liik="V" vorm="pers.ind.ipf.sg.3.">`tahtas</sone>
+<sone id="l16_s175" lemma="teadma" liik="V" vorm="pers.ind.pr.neg.">tää</sone> <sone id="l16_s176" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l16_s176" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l16_s177" lemma="nemad" liik="ProS" vorm="sg.nom.">nad</sone>
+<sone id="l20_s19" lemma="noh" liik="Par">noh</sone> <sone id="l20_s20" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l20_s20" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l20_s21" lemma="siis" liik="ProAdv">siis</sone>
+<sone id="l28_s16" lemma="miski" liik="ProS" vorm="sg.part.">midad</sone> <sone id="l28_s18" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l28_s18" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l28_s19" lemma="ikka" liik="Par">`ikka</sone>
+<sone id="l46_s7" lemma="looma" liik="V" vorm="sup.">`looma</sone> <sone id="l46_s9" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone>
+<sone id="l46_s9" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone> <sone id="l46_s10" lemma="poisike" liik="S" vorm="pl.part.">poisikkessi</sone>
+<sone id="l46_s15" lemma="katsuma" liik="V" vorm="pers.ind.ipf.pl.3.">`katsusid</sone> <sone id="l46_s16" lemma="kes" liik="Intr" vorm="sg.ad.">kessel</sone>
+<sone id="l46_s16" lemma="kes" liik="Intr" vorm="sg.ad.">kessel</sone> <sone id="l46_s17" lemma="olema" liik="V" vorm="pers.ind.pr.neg.">pole</sone>
+<lause id="l58" koneleja="KJ"> <sone id="l58_s1" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone>
+<sone id="l58_s1" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone> </lause>
+<sone id="l64_s64" lemma="ja" liik="Konj">ja</sone> <sone id="l64_s66" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l64_s66" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l64_s67" lemma="tahtma" liik="V" vorm="pers.ind.ipf.sg.3.">`tahtas</sone>
+<sone id="l3_s6" lemma="jah" liik="Par">jahh</sone> <sone id="l3_s8" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l3_s8" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l3_s9" lemma="süsi" liik="S" vorm="pl.kom.">süttega</sone>
+<sone id="l7_s23" lemma="tegema" liik="V" vorm="ips.ind.ipf.">`tehti</sone> <sone id="l7_s25" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l7_s25" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l7_s26" lemma="siis" liik="ProAdv">sis</sone>
+<sone id="l25_s24" lemma="siis" liik="ProAdv">sis</sone> <sone id="l25_s26" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone>
+<sone id="l25_s26" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone> <sone id="l25_s28" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l25_s28" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l25_s29" lemma="ostja" liik="S" vorm="sg.nom.">`ostija</sone>
+<sone id="l33_s1" lemma="üksi" liik="Adv">üksi</sone> <sone id="l33_s3" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l33_s3" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l33_s4" lemma="seal" liik="ProAdv">sääl</sone>
+<sone id="l39_s74" lemma="mark" liik="S" vorm="pl.nom.">margad</sone> <sone id="l39_s77" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l39_s77" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l39_s78" lemma="need" liik="ProS" vorm="pl.part.">neid</sone>
+<sone id="l46_s65" lemma="tegema" liik="V" vorm="inf.">teha</sone> <sone id="l46_s67" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l46_s67" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l46_s68" lemma="olema" liik="Va" vorm="pers.ind.pr.neg.">pole</sone>
+<sone id="l52_s49" lemma="siis" liik="ProAdv">sis</sone> <sone id="l52_s50" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l52_s50" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l52_s51" lemma="sedati" liik="ProAdv" tahendus="sedasi">sedatti</sone>
+<sone id="l52_s124" lemma="ning" liik="Konj">ning</sone> <sone id="l52_s126" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l52_s126" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l52_s127" lemma="sedati" liik="ProAdv" tahendus="sedasi">sedatti</sone>
+<sone id="l31_s8" lemma="need" liik="ProS" vorm="pl.nom.">ne</sone> <sone id="l31_s9" lemma="kes" liik="Intr" vorm="sg.gen.">kelle</sone>
+<sone id="l31_s9" lemma="kes" liik="Intr" vorm="sg.gen.">kelle</sone> <sone id="l31_s10" lemma="lammas" liik="S" vorm="pl.nom.">`lambad</sone>
+<sone id="l154_s100" lemma="aeg" liik="S" vorm="sg.nom.">aeg</sone> <sone id="l154_s102" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l154_s102" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l154_s103" lemma="see" liik="ProS" vorm="sg.gen.">selle</sone>
+<sone id="l3_s56" lemma="hobune" liik="S" vorm="sg.part.">obust</sone> <sone id="l3_s58" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone>
+<sone id="l3_s58" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone> <sone id="l3_s59" lemma="need" liik="ProS" vorm="pl.nom.">ned</sone>
+<sone id="l3_s102" lemma="poiss" liik="S" vorm="sg.nom.">poiss</sone> <sone id="l3_s104" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l3_s104" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l3_s106" lemma="selge" liik="A" vorm="sg.nom.">`sel'ge</sone>
+<sone id="l3_s106" lemma="selge" liik="A" vorm="sg.nom.">`sel'ge</sone> <sone id="l3_s108" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l3_s108" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l3_s109" lemma="hästi" liik="Adv">`easti</sone>
+<sone id="l8_s18" lemma="nii" liik="ProAdv">nii</sone> <sone id="l8_s20" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l8_s20" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l8_s21" lemma="olema" liik="V" vorm="pers.ind.ipf.sg.3.">oli</sone>
+<sone id="l8_s29" lemma="pea+vili" liik="S" vorm="sg.part.">pea+`vilja</sone> <sone id="l8_s31" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l8_s31" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l8_s32" lemma="vaene" liik="A" vorm="sg.nom.cmp.">`vaesem</sone>
+<sone id="l13_s23" lemma="oma" liik="ProS" vorm="sg.gen.">oma</sone> <sone id="l13_s25" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l13_s25" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l13_s26" lemma="tema" liik="ProS" vorm="sg.ad.">taal</sone>
+<sone id="l13_s174" lemma="juurde" liik="Post">`juure</sone> <sone id="l13_s176" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l13_s176" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l13_s178" lemma="jahvataja" liik="S" vorm="sg.gen.">jahvattaja</sone>
+<sone id="l15_s115" lemma="laenama" liik="V" vorm="pers.ind.ipf.sg.3.">`laenas</sone> <sone id="l15_s117" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l15_s117" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l15_s118" lemma="tahtma" liik="V" vorm="pers.ind.ipf.sg.3.">`tahtis</sone>
+<sone id="l23_s111" lemma="kus" liik="Intr">kus</sone> <sone id="l23_s112" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l23_s112" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l23_s113" meta="kommentaar">kolin</sone>
+<sone id="l31_s40" lemma="või" liik="Konj">vöi</sone> <sone id="l31_s41" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l31_s41" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l31_s42" lemma="sisse" liik="Adva">`sisse</sone>
+<sone id="l66_s199" lemma="mees" liik="S" vorm="sg.nom.">mees</sone> <sone id="l66_s201" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l66_s201" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l66_s202" lemma="ehitama" liik="V" vorm="pers.ind.ipf.sg.3.">ehittas</sone>
+<sone id="l66_s229" lemma="mees" liik="S" vorm="sg.nom.">mees</sone> <sone id="l66_s231" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l66_s231" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l66_s232" lemma="ehitama" liik="V" vorm="pers.ind.ipf.sg.3.">ehittas</sone>
+<sone id="l29_s51" lemma="inimene" liik="S" vorm="pl.nom.">inimised</sone> <sone id="l29_s52" lemma="kes" liik="Intr" vorm="sg.gen.">kelle</sone>
+<sone id="l29_s52" lemma="kes" liik="Intr" vorm="sg.gen.">kelle</sone> <sone id="l29_s53" lemma="käest" liik="Post">kääst</sone>
+<sone id="l76_s121" lemma="olema" liik="V" vorm="nud.">olnd</sone> <sone id="l76_s122" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l76_s122" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l76_s124" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l76_s124" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l76_s125" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l76_s125" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l76_s126" lemma="jälgima" liik="V" vorm="pers.ind.pr.pl.3.">`jäl'givad</sone>
+<sone id="l83_s98" lemma="siin" liik="ProAdv">sii</sone> <sone id="l83_s99" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l83_s99" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l83_s100" lemma="teenima" liik="V" vorm="pers.ind.ipf.pl.3.">`teenisid</sone>
+<sone id="l89_s10" lemma="see" liik="ProS" vorm="sg.nom.">see</sone> <sone id="l89_s11" lemma="kes" liik="Intr" vorm="sg.ad.">killel</sone>
+<sone id="l89_s11" lemma="kes" liik="Intr" vorm="sg.ad.">killel</sone> <sone id="l89_s12" lemma="ei" liik="Mn">ei</sone>
+<sone id="l97_s11" lemma="osa" liik="S" vorm="sg.nom.">osa</sone> <sone id="l97_s12" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone>
+<sone id="l97_s12" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone> <sone id="l97_s13" lemma="olema" liik="V" vorm="pers.ind.ipf.pl.3.">olid</sone>
+<sone id="l97_s16" lemma="osa" liik="S" vorm="sg.nom.">osa</sone> <sone id="l97_s17" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone>
+<sone id="l97_s17" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone> <sone id="l97_s18" lemma="kelder" liik="S" vorm="pl.nom.">`keldrid</sone>
+<sone id="l99_s51" lemma="siis" liik="ProAdv">siiss</sone> <sone id="l99_s52" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone>
+<sone id="l99_s52" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone> <sone id="l99_s54" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l99_s54" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l99_s55" lemma="siis" liik="ProAdv">siis</sone>
+<sone id="l17_s36" lemma="aga" liik="Konj">a</sone> <sone id="l17_s37" lemma="kes" liik="Intr" vorm="sg.ad.">killel</sone>
+<sone id="l17_s37" lemma="kes" liik="Intr" vorm="sg.ad.">killel</sone> <sone id="l17_s38" lemma="olema" liik="V" vorm="pers.ind.ipf.sg.3.">`olli</sone>
+<sone id="l17_s43" lemma="üks" liik="Nump" vorm="sg.nom.">üks</sone> <sone id="l17_s44" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone>
+<sone id="l17_s44" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone> <sone id="l17_s45" lemma="üks" liik="Nump" vorm="sg.nom.">üks</sone>
+<sone id="l77_s41" lemma="nägema" liik="V" vorm="nud.">näin</sone> <sone id="l77_s43" lemma="kes" liik="Intr" vorm="sg.kom.">killega</sone>
+<sone id="l77_s43" lemma="kes" liik="Intr" vorm="sg.kom.">killega</sone> <sone id="l77_s45" lemma="peksma" liik="V" vorm="ips.ind.ipf.">peksedi</sone>
+<sone id="l81_s181" lemma="e" liik="Par">e</sone> <sone id="l81_s182" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone>
+<sone id="l81_s182" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone> <sone id="l81_s183" lemma="see" liik="ProS" vorm="sg.part.">seda</sone>
+<sone id="l101_s124" lemma="teadma" liik="V" vorm="pers.ind.pr.neg.">tää</sone> <sone id="l101_s125" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone>
+<sone id="l101_s125" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone> <sone id="l101_s126" lemma="nüüd" liik="ProAdv">nüid</sone>
+<sone id="l101_s132" liik="" meta="poolik sõna">ke-</sone> <sone id="l101_s133" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone>
+<sone id="l101_s133" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone> <sone id="l101_s134" lemma="nüüd" liik="ProAdv">nüid</sone>
+<sone id="l101_s147" lemma="enam" liik="Adv">änam</sone> <sone id="l101_s148" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l101_s148" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l101_s149" lemma="sahk" liik="S" vorm="sg.kom.">sahaga</sone>
+<sone id="l84_s8" lemma="olema" liik="V" vorm="pers.ind.ipf.sg.3.">`olli</sone> <sone id="l84_s10" lemma="kes" liik="Intr" vorm="sg.kom.">kellega</sone>
+<sone id="l84_s10" lemma="kes" liik="Intr" vorm="sg.kom.">kellega</sone> <sone id="l84_s11" lemma="siis" liik="ProAdv">siiss</sone>
+<sone id="l141_s19" lemma="ja" liik="Konj">ja</sone> <sone id="l141_s20" lemma="kes" liik="Intr" vorm="pl.kom.">killega</sone>
+<sone id="l141_s20" lemma="kes" liik="Intr" vorm="pl.kom.">killega</sone> <sone id="l141_s21" lemma="meie" liik="ProS" vorm="sg.nom.">me</sone>
+<sone id="l269_s25" lemma="nii+sugune" liik="ProA" vorm="sg.nom.">nii+sune</sone> <sone id="l269_s26" lemma="kes" liik="Intr" vorm="sg.kom.">killega</sone>
+<sone id="l269_s26" lemma="kes" liik="Intr" vorm="sg.kom.">killega</sone> <sone id="l269_s27" lemma="sina" liik="ProS" vorm="sg.nom.">sa</sone>
+<sone id="l271_s13" lemma="olema" liik="V" vorm="inf.">`olla</sone> <sone id="l271_s15" lemma="kes" liik="Intr" vorm="sg.kom.">killega</sone>
+<sone id="l271_s15" lemma="kes" liik="Intr" vorm="sg.kom.">killega</sone> <sone id="l271_s16" lemma="sina" liik="ProS" vorm="sg.nom.">sa</sone>
+<sone id="l439_s233" lemma="siis" liik="ProAdv">siis</sone> <sone id="l439_s234" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone>
+<sone id="l439_s234" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone> <sone id="l439_s235" lemma="jälle" liik="Adv">`jälle</sone>
+<sone id="l439_s305" lemma="olema" liik="V" vorm="sup.">olema</sone> <sone id="l439_s307" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone>
+<sone id="l439_s307" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone> <sone id="l439_s308" lemma="olema" liik="Va" vorm="pers.ind.ipf.sg.3.">`olli</sone>
+<sone id="l439_s356" lemma="et" liik="Konj">et</sone> <sone id="l439_s357" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone>
+<sone id="l439_s357" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone> <sone id="l439_s358" lemma="siis" liik="ProAdv">siis</sone>
+<sone id="l445_s50" lemma="teadma" liik="V" vorm="pers.ind.pr.neg.">tää</sone> <sone id="l445_s51" lemma="kes" liik="Intr">kiss</sone>
+<sone id="l445_s51" lemma="kes" liik="Intr">kiss</sone> <sone id="l445_s53" lemma="mis+sugune" liik="ProA" vorm="sg.nom.">mis+sugune</sone>
+<sone id="l447_s59" lemma="ja" liik="Konj">ja</sone> <sone id="l447_s60" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone>
+<sone id="l447_s60" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone> <sone id="l447_s61" lemma="seal" liik="ProAdv">säl</sone>
+<sone id="l463_s54" lemma="olema" liik="V" vorm="sup.">olema</sone> <sone id="l463_s56" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone>
+<sone id="l463_s56" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone> <sone id="l463_s57" lemma="nemad" liik="ProS" vorm="pl.nom.">nad</sone>
+<sone id="l479_s17" lemma="ja" liik="Konj">ja</sone> <sone id="l479_s18" lemma="kes" liik="Intr" vorm="pl.nom.">kiss</sone>
+<sone id="l479_s18" lemma="kes" liik="Intr" vorm="pl.nom.">kiss</sone> <sone id="l479_s19" lemma="nemad" liik="ProS" vorm="pl.nom.">nad</sone>
+<sone id="l479_s61" lemma="ütlema" liik="V" vorm="pers.ind.pr.pl.1.">`ütleme</sone> <sone id="l479_s62" lemma="kes" liik="Intr" vorm="pl.nom.">kis</sone>
+<sone id="l479_s62" lemma="kes" liik="Intr" vorm="pl.nom.">kis</sone> <sone id="l479_s64" lemma="seal" liik="ProAdv">säl</sone>
+<sone id="l1_s42" lemma="üks" liik="Nump" vorm="sg.nom.">üks</sone> <sone id="l1_s43" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone>
+<sone id="l1_s43" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone> <sone id="l1_s44" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone>
+<sone id="l1_s44" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone> <sone id="l1_s46" lemma="and" liik="S" tahendus="veimed, kink" vorm="pl.part.">`ande</sone>
+<sone id="l3_s20" lemma="andma" liik="V" vorm="sup.">`andma</sone> <sone id="l3_s22" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l3_s22" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l3_s23" lemma="nemad" liik="ProS" vorm="pl.part.">neid</sone>
+<sone id="l20_s7" lemma="need" liik="ProS" vorm="pl.nom.">ned</sone> <sone id="l20_s8" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l20_s8" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l20_s9" lemma="tahtma" liik="V" vorm="pers.ind.ipf.sg.3.">`tahtis</sone>
+<sone id="l20_s15" lemma="võrk" liik="S" vorm="pl.nom.">vörgud</sone> <sone id="l20_s16" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l20_s16" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l20_s17" lemma="tahtma" liik="V" vorm="pers.ind.ipf.sg.3.">`tahtis</sone>
+<sone id="l28_s78" meta="kommentaar">naerab</sone> <sone id="l28_s79" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l28_s79" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l28_s80" lemma="maa" liik="S" vorm="sg.gen.">maa</sone>
+<sone id="l31_s22" lemma="ka" liik="Par">kaa</sone> <sone id="l31_s23" lemma="kes" liik="ProS" vorm="sg.gen.">kelle</sone>
+<sone id="l31_s23" lemma="kes" liik="ProS" vorm="sg.gen.">kelle</sone> <sone id="l31_s24" lemma="sees" liik="Post">sees</sone>
+<sone id="l69_s19" lemma="siis" liik="ProAdv">siiss</sone> <sone id="l69_s21" lemma="kes" liik="Intr" vorm="sg.gen.">kille</sone>
+<sone id="l69_s21" lemma="kes" liik="Intr" vorm="sg.gen.">kille</sone> <sone id="l69_s22" lemma="kes" liik="Intr" vorm="sg.gen.">kille</sone>
+<sone id="l69_s22" lemma="kes" liik="Intr" vorm="sg.gen.">kille</sone> <sone id="l69_s23" lemma="paat" liik="S" vorm="sg.nom.">paat</sone>
+<sone id="l69_s30" lemma="kipper" liik="S" tahendus="väikese laeva juht" vorm="sg.nom.">`kipper</sone> <sone id="l69_s31" lemma="kes" liik="Intr" vorm="sg.gen.">kelle</sone>
+<sone id="l69_s31" lemma="kes" liik="Intr" vorm="sg.gen.">kelle</sone> <sone id="l69_s32" lemma="paat" liik="S" vorm="sg.nom.">paat</sone>
+<sone id="l75_s7" lemma="ui" liik="S" tahendus="piirits, võrkude kudumisel tarvitatav nõel" vorm="pl.nom.">huid</sone> <sone id="l75_s8" lemma="kes" liik="Intr" vorm="sg.gen.">kelle</sone>
+<sone id="l75_s8" lemma="kes" liik="Intr" vorm="sg.gen.">kelle</sone> <sone id="l75_s9" lemma="peal" liik="Post">päal</sone>
+<sone id="l75_s20" lemma="kalasi" liik="S" tahendus="puupulk võrgukudumiseks" vorm="sg.nom.">kalas</sone> <sone id="l75_s21" lemma="kes" liik="Intr" vorm="sg.gen.">kelle</sone>
+<sone id="l75_s21" lemma="kes" liik="Intr" vorm="sg.gen.">kelle</sone> <sone id="l75_s22" lemma="kes" liik="Intr" vorm="sg.gen.">kelle</sone>
+<sone id="l75_s22" lemma="kes" liik="Intr" vorm="sg.gen.">kelle</sone> <sone id="l75_s23" lemma="ümber" liik="Post">`ümber</sone>
+<sone id="l77_s72" lemma="käba" liik="S" tahendus="võrguujuk" vorm="pl.nom.">käbad</sone> <sone id="l77_s73" lemma="kes" liik="Intr" vorm="sg.nom.">kenn</sone>
+<sone id="l77_s73" lemma="kes" liik="Intr" vorm="sg.nom.">kenn</sone> <sone id="l77_s74" lemma="siis" liik="ProAdv">sis</sone>
+<sone id="l93_s3" lemma="iga+üks" liik="ProS" vorm="sg.nom.">ega+üks</sone> <sone id="l93_s4" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone>
+<sone id="l93_s4" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone> <sone id="l93_s6" lemma="kes" liik="Intr" vorm="sg.ad.">`killel</sone>
+<sone id="l93_s6" lemma="kes" liik="Intr" vorm="sg.ad.">`killel</sone> <sone id="l93_s7" lemma="aeg" liik="S" vorm="sg.part.">`aega</sone>
+<sone id="l93_s8" lemma="olema" liik="V" vorm="pers.ind.ipf.sg.3.">oli</sone> <sone id="l93_s9" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l93_s9" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l93_s10" lemma="oskama" liik="V" vorm="pers.ind.ipf.sg.3.">`oskas</sone>
+<sone id="l93_s21" lemma="noh" liik="Par">nohh</sone> <sone id="l93_s22" lemma="kes" liik="Intr" vorm="sg.ad.">kel</sone>
+<sone id="l93_s22" lemma="kes" liik="Intr" vorm="sg.ad.">kel</sone> <sone id="l93_s23" lemma="suur" liik="A" vorm="pl.nom.">suured</sone>
+<sone id="l111_s1" lemma="näh" liik="Par">nähh</sone> <sone id="l111_s2" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l111_s2" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l111_s3" lemma="see" liik="ProS" vorm="sg.part.">seda</sone>
+<sone id="l116_s1" meta="kommentaar">naerdes</sone> <sone id="l116_s2" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l116_s2" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l116_s3" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l116_s3" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l116_s4" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l116_s4" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l116_s5" lemma="seal" liik="ProAdv">säl</sone>
+<sone id="l148_s7" lemma="oma" liik="ProS" vorm="pl.nom.">omad</sone> <sone id="l148_s9" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone>
+<sone id="l148_s9" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone> <sone id="l148_s10" lemma="kõige" liik="Ms">keige</sone>
+<sone id="l150_s73" lemma="mees" liik="S" vorm="sg.nom.">mees</sone> <sone id="l150_s74" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l150_s74" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l150_s75" lemma="laud" liik="S" vorm="pl.part.">`laudu</sone>
+<sone id="l150_s84" lemma="ja" liik="Konj">ja</sone> <sone id="l150_s85" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone>
+<sone id="l150_s85" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone> <sone id="l150_s87" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone>
+<sone id="l150_s87" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone> <sone id="l150_s88" lemma="hõbe+raha" liik="S" vorm="sg.part.">höbe+raha</sone>
+<sone id="l150_s103" lemma="ja" liik="Konj">ja</sone> <sone id="l150_s104" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l150_s104" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l150_s106" lemma="jälle" liik="Adv">`jälle</sone>
+<sone id="l152_s13" lemma="jaoks" liik="Adv">jäoks</sone> <sone id="l152_s14" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l152_s14" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l152_s16" lemma="nemad" liik="ProS" vorm="pl.nom.">nad</sone>
+<sone id="l154_s30" lemma="ja" liik="Konj">ja</sone> <sone id="l154_s32" lemma="kes" liik="Intr" vorm="sg.gen.">kelle</sone>
+<sone id="l154_s32" lemma="kes" liik="Intr" vorm="sg.gen.">kelle</sone> <sone id="l154_s33" lemma="kauss" liik="S" vorm="sg.ill.">`kaussi</sone>
+<sone id="l154_s40" lemma="püüdma" liik="V" vorm="pers.ind.ipf.sg.3.">`püidis</sone> <sone id="l154_s41" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l154_s41" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l154_s43" lemma="tema" liik="ProS" vorm="sg.gen.">ta</sone>
+<sone id="l164_s45" lemma="andma" liik="V" vorm="pers.ind.ipf.sg.1.">`antsin</sone> <sone id="l164_s47" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l164_s47" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l164_s49" lemma="mina" liik="ProS" vorm="sg.gen.">mu</sone>
+<sone id="l164_s49" lemma="mina" liik="ProS" vorm="sg.gen.">mu</sone> <sone id="l164_s50" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l164_s50" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l164_s52" lemma="mina" liik="ProS" vorm="sg.gen.">mu</sone>
+<sone id="l174_s67" lemma="võrk" liik="S" vorm="pl.nom.">vörgud</sone> <sone id="l174_s68" lemma="kes" liik="Intr" vorm="sg.ad.">killel</sone>
+<sone id="l174_s68" lemma="kes" liik="Intr" vorm="sg.ad.">killel</sone> <sone id="l174_s69" lemma="võrk" liik="S" vorm="pl.nom.">vörgud</sone>
+<sone id="l178_s9" liik="" meta="poolik sõna">ke-</sone> <sone id="l178_s10" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l178_s10" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l178_s11" lemma="nii" liik="ProAdv">nii</sone>
+<sone id="l178_s13" lemma="olema" liik="V" vorm="pers.ind.ipf.sg.3.">oli</sone> <sone id="l178_s15" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l178_s15" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l178_s16" lemma="kangas" liik="S" vorm="sg.part.">ka~nnast</sone>
+<sone id="l199_s3" lemma="ka" liik="Par">ka</sone> <sone id="l199_s4" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l199_s4" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l199_s5" lemma="käär+puud" liik="S" vorm="sg.part.">käär+pu</sone>
+<sone id="l201_s3" lemma="siis" liik="ProAdv">siss</sone> <sone id="l201_s5" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l201_s5" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l201_s7" lemma="tema" liik="ProS" vorm="sg.nom.">ta</sone>
+<sone id="l227_s9" lemma="ketas" liik="S" vorm="pl.nom.">`kättad</sone> <sone id="l227_s10" lemma="kes" liik="ProS" vorm="sg.gen.">kelle</sone>
+<sone id="l227_s10" lemma="kes" liik="ProS" vorm="sg.gen.">kelle</sone> <sone id="l227_s11" lemma="peale" liik="Adv">`päale</sone>
+<sone id="l259_s18" lemma="siis" liik="ProAdv">siss</sone> <sone id="l259_s19" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone>
+<sone id="l259_s19" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone> <sone id="l259_s20" lemma="tanu" liik="S" vorm="sg.part.">tanu</sone>
+<sone id="l21_s45" lemma="ja" liik="Konj">ja</sone> <sone id="l21_s47" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l21_s47" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l21_s48" lemma="jälle" liik="Adv">`jälle</sone>
+<sone id="l33_s14" lemma="kodu" liik="S" vorm="sg.in.">kodus</sone> <sone id="l33_s16" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone>
+<sone id="l33_s16" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone> <sone id="l33_s17" lemma="olema" liik="V" vorm="pers.ind.ipf.pl.3.">olid</sone>
+<sone id="l42_s7" lemma="olema" liik="V" vorm="sup.">olema</sone> <sone id="l42_s8" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l42_s8" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l42_s10" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l42_s10" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l42_s11" lemma="see" liik="ProS" vorm="sg.part.">seda</sone>
+<sone id="l54_s35" lemma="vikat" liik="S" vorm="sg.kom.">vikkattige</sone> <sone id="l54_s37" lemma="kes" liik="Intr" vorm="sg.ad.">killel</sone>
+<sone id="l54_s37" lemma="kes" liik="Intr" vorm="sg.ad.">killel</sone> <sone id="l54_s38" lemma="olema" liik="Va" vorm="pers.ind.pr.neg.">pole</sone>
+<sone id="l62_s7" liik="" meta="poolik sõna">la-</sone> <sone id="l62_s8" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone>
+<sone id="l62_s8" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone> <sone id="l62_s9" lemma="olema" liik="Va" vorm="pers.ind.pr.neg.">pole</sone>
+<sone id="l62_s16" lemma="siduma" liik="V" vorm="sup.in.">sidumas</sone> <sone id="l62_s18" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone>
+<sone id="l62_s18" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone> <sone id="l62_s19" lemma="need" liik="ProS" vorm="pl.part.">neid</sone>
+<sone id="l74_s44" lemma="panija" liik="S" vorm="sg.nom.">panija</sone> <sone id="l74_s45" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l74_s45" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l74_s47" lemma="seal" liik="ProAdv">sääl</sone>
+<sone id="l82_s14" lemma="ee" liik="Par">ee</sone> <sone id="l82_s15" lemma="kes" liik="Intr" vorm="sg.kom.">killega</sone>
+<sone id="l82_s15" lemma="kes" liik="Intr" vorm="sg.kom.">killega</sone> <sone id="l82_s17" lemma="peal" liik="Adv">pääl</sone>
+<sone id="l108_s14" lemma="mõni" liik="ProS" vorm="sg.ad.">mönel</sone> <sone id="l108_s15" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone>
+<sone id="l108_s15" lemma="kes" liik="Intr" vorm="sg.ad.">kellel</sone> <sone id="l108_s16" lemma="olema" liik="Va" vorm="pers.ind.pr.neg.">pole</sone>
+<sone id="l118_s7" lemma="ja" liik="Konj">ja</sone> <sone id="l118_s8" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l118_s8" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l118_s9" lemma="tahtma" liik="V" vorm="pers.ind.ipf.sg.3.">`tahtis</sone>
+<sone id="l126_s1" lemma="mhh" liik="Par">mhh</sone> <sone id="l126_s3" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l126_s3" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l126_s4" lemma="see" liik="ProS" vorm="sg.part.">seda</sone>
+<sone id="l26_s27" lemma="podrätsik" liik="S" tahendus="töödejuhataja" vorm="sg.tr.">podretsikkuks</sone> <sone id="l26_s28" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l26_s28" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l26_s29" lemma="olema" liik="Va" vorm="pers.ind.ipf.sg.3.">oli</sone>
+<sone id="l34_s10" lemma="olema" liik="V" vorm="pers.ind.ipf.sg.3.">oli</sone> <sone id="l34_s11" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l34_s11" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l34_s12" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l34_s12" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l34_s13" lemma="hobune" liik="S" vorm="pl.gen.">obuste</sone>
+<sone id="l34_s32" lemma="see" liik="ProS" vorm="pl.nom.">need</sone> <sone id="l34_s33" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l34_s33" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l34_s34" lemma="siis" liik="ProAdv">siis</sone>
+<sone id="l34_s38" lemma="moonakas" liik="S" vorm="pl.nom.">moonakkad</sone> <sone id="l34_s40" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l34_s40" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l34_s41" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l34_s41" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l34_s42" lemma="nüüd" liik="Adv">nüid</sone>
+<sone id="l36_s21" lemma="sedasi" liik="ProAdv">sädäsi</sone> <sone id="l36_s22" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l36_s22" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l36_s23" liik="" meta="poolik sõna">ke-</sone>
+<sone id="l36_s24" lemma="vili" liik="S" vorm="sg.kom.">viljaga</sone> <sone id="l36_s25" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l36_s25" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l36_s26" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l36_s26" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l36_s27" lemma="kolm" liik="Nump" vorm="sg.gen.">kolme</sone>
+<sone id="l36_s30" lemma="olema" liik="V" vorm="pers.ind.ipf.sg.3.">oli</sone> <sone id="l36_s31" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l36_s31" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l36_s32" lemma="nädal" liik="S" vorm="sg.in.">nädalis</sone>
+<sone id="l40_s64" lemma="jälle" liik="Adv">`jälle</sone> <sone id="l40_s65" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l40_s65" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l40_s66" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l40_s66" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l40_s67" lemma="kaugel" liik="Adv">`kaugel</sone>
+<sone id="l40_s117" lemma="oma" liik="ProS" vorm="sg.all.">omale</sone> <sone id="l40_s118" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l40_s118" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l40_s119" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l40_s119" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l40_s120" lemma="es" liik="Mn" tahendus="ei" vorm="ipf.">ess</sone>
+<sone id="l52_s12" lemma="naine" liik="S" vorm="sg.kom.">naisega</sone> <sone id="l52_s13" lemma="kes" liik="Intr" vorm="sg.gen.">kelle</sone>
+<sone id="l52_s13" lemma="kes" liik="Intr" vorm="sg.gen.">kelle</sone> <sone id="l52_s14" lemma="mees" liik="S" vorm="sg.nom.">mees</sone>
+<sone id="l52_s324" lemma="ikka" liik="Par">`ikka</sone> <sone id="l52_s325" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l52_s325" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l52_s326" lemma="ikka" liik="Par">`ikka</sone>
+<sone id="l52_s356" lemma="kes+gi" liik="ProS" vorm="sg.part.">kedagit</sone> <sone id="l52_s357" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l52_s357" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l52_s358" lemma="oskama" liik="V" vorm="pers.ind.pr.sg.3.">`oskab</sone>
+<sone id="l58_s25" lemma="see" liik="ProS" vorm="sg.nom.">see</sone> <sone id="l58_s26" lemma="kes" liik="Intr" vorm="sg.gen.">kelle</sone>
+<sone id="l58_s26" lemma="kes" liik="Intr" vorm="sg.gen.">kelle</sone> <sone id="l58_s27" lemma="peale" liik="Post">`peale</sone>
+<sone id="l60_s87" lemma="lüli+vanem" liik="S" vorm="pl.nom.">lüli+vanemad</sone> <sone id="l60_s88" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l60_s88" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l60_s89" lemma="siis" liik="ProAdv">siis</sone>
+<sone id="l72_s99" lemma="ikka" liik="Par">`ikka</sone> <sone id="l72_s101" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l72_s101" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l72_s102" lemma="paha" liik="A" vorm="pl.nom.">pahad</sone>
+<sone id="l72_s128" lemma="mis+ki" liik="ProS" vorm="sg.part.">midad</sone> <sone id="l72_s130" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l72_s130" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l72_s131" lemma="vahest" liik="Adv" tahendus="vahel">vahest</sone>
+<sone id="l90_s1" lemma="kartul" liik="S" vorm="pl.nom.">karttuhlid</sone> <sone id="l90_s3" lemma="kes" liik="Intr" vorm="sg.ad.">kessel</sone>
+<sone id="l90_s3" lemma="kes" liik="Intr" vorm="sg.ad.">kessel</sone> <sone id="l90_s4" lemma="olema" liik="V" vorm="pers.ind.ipf.sg.3.">oli</sone>
+<sone id="l90_s72" lemma="nemad" liik="ProS" vorm="pl.nom.">need</sone> <sone id="l90_s73" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l90_s73" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l90_s74" lemma="paat" liik="S" vorm="sg.in.">`pattis</sone>
+<sone id="l1_s317" lemma="hüüdma" liik="V" vorm="ips.ind.ipf.">`öötti</sone> <sone id="l1_s318" lemma="kes" liik="ProS" vorm="sg.nom.">kess</sone>
+<sone id="l1_s318" lemma="kes" liik="ProS" vorm="sg.nom.">kess</sone> <sone id="l1_s319" lemma="pruut" liik="S" vorm="sg.ad.">pruudil</sone>
+<sone id="l1_s335" lemma="jälle" liik="Adv">`jälle</sone> <sone id="l1_s336" lemma="kes" liik="ProS" vorm="sg.nom.">kess</sone>
+<sone id="l1_s336" lemma="kes" liik="ProS" vorm="sg.nom.">kess</sone> <sone id="l1_s337" lemma="peig+mees" liik="S" vorm="sg.ad.">pei+mehel</sone>
+<sone id="l1_s340" lemma="poiss" liik="S" vorm="sg.nom.">poiss</sone> <sone id="l1_s341" lemma="kes" liik="ProS" vorm="sg.nom.">kess</sone>
+<sone id="l1_s341" lemma="kes" liik="ProS" vorm="sg.nom.">kess</sone> <sone id="l1_s342" lemma="kroon" liik="S" tahendus="pärg" vorm="sg.part.">`krooni</sone>
+<sone id="l1_s369" lemma="poeg" liik="S" vorm="sg.ad.">poeal</sone> <sone id="l1_s370" lemma="kes" liik="ProS" vorm="sg.ad.">kellel</sone>
+<sone id="l1_s370" lemma="kes" liik="ProS" vorm="sg.ad.">kellel</sone> <sone id="l1_s371" lemma="ikka" liik="Par">`ikka</sone>
+<sone id="l1_s396" lemma="siis" liik="Par">siis</sone> <sone id="l1_s397" lemma="kes" liik="ProS" vorm="sg.nom.">kess</sone>
+<sone id="l1_s397" lemma="kes" liik="ProS" vorm="sg.nom.">kess</sone> <sone id="l1_s398" lemma="kes" liik="ProS" vorm="sg.nom.">kess</sone>
+<sone id="l1_s398" lemma="kes" liik="ProS" vorm="sg.nom.">kess</sone> <sone id="l1_s399" lemma="sealt" liik="ProAdv">sält</sone>
+<sone id="l19_s45" lemma="pruut" liik="S" vorm="sg.part.">`pruutti</sone> <sone id="l19_s46" lemma="kes" liik="ProS" vorm="sg.nom.">kess</sone>
+<sone id="l19_s46" lemma="kes" liik="ProS" vorm="sg.nom.">kess</sone> <sone id="l19_s47" lemma="tema" liik="ProS" vorm="sg.part.">teda</sone>
+<sone id="l27_s20" lemma="mitte" liik="Mn">`mette</sone> <sone id="l27_s21" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l27_s21" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l27_s22" lemma="olema" liik="Va" vorm="pers.ind.pr.neg.">pole</sone>
+<sone id="l47_s1" liik="" meta="poolik sõna">e-</sone> <sone id="l47_s3" lemma="kes" liik="Intr" vorm="sg.part.">keda</sone>
+<sone id="l47_s3" lemma="kes" liik="Intr" vorm="sg.part.">keda</sone> </lause>
+<sone id="l51_s17" lemma="inimene" liik="S" vorm="sg.nom.">inimene</sone> <sone id="l51_s18" lemma="kes" liik="ProS" vorm="sg.nom.">kess</sone>
+<sone id="l51_s18" lemma="kes" liik="ProS" vorm="sg.nom.">kess</sone> <sone id="l51_s19" lemma="võtma" liik="V" vorm="pers.ind.ipf.sg.3.">`võttis</sone>
+<sone id="l51_s30" lemma="palk" liik="S" vorm="sg.nom.">palk</sone> <sone id="l51_s32" lemma="kes" liik="ProS" vorm="sg.nom.">kess</sone>
+<sone id="l51_s32" lemma="kes" liik="ProS" vorm="sg.nom.">kess</sone> <sone id="l51_s33" lemma="hoidma" liik="V" vorm="pers.ind.ipf.sg.3.">`oidis</sone>
+<sone id="l51_s53" lemma="olema" liik="V" vorm="pers.ind.ipf.sg.3.">oli</sone> <sone id="l51_s54" lemma="kes" liik="ProS" vorm="sg.nom.">kess</sone>
+<sone id="l51_s54" lemma="kes" liik="ProS" vorm="sg.nom.">kess</sone> <sone id="l51_s55" lemma="see" liik="ProS" vorm="sg.nom.">see</sone>
+<sone id="l11_s88" lemma="teadma" liik="V" vorm="pers.ind.pr.neg.">tää</sone> <sone id="l11_s89" lemma="kes" liik="Intr" vorm="pl.nom.">kes</sone>
+<sone id="l11_s89" lemma="kes" liik="Intr" vorm="pl.nom.">kes</sone> <sone id="l11_s91" lemma="nemad" liik="ProS" vorm="pl.nom.">nad</sone>
+<sone id="l26_s19" lemma="need" liik="ProS" vorm="pl.nom.">nee</sone> <sone id="l26_s20" lemma="kes" liik="Intr" vorm="pl.nom.">kiss</sone>
+<sone id="l26_s20" lemma="kes" liik="Intr" vorm="pl.nom.">kiss</sone> <sone id="l26_s21" lemma="jälle" liik="Adv">`jälle</sone>
+<sone id="l62_s11" lemma="olema" liik="V" vorm="pers.ind.ipf.pl.3.">olid</sone> <sone id="l62_s13" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone>
+<sone id="l62_s13" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone> <sone id="l62_s14" lemma="tahtma" liik="V" vorm="pers.ind.ipf.sg.3.">`tahtis</sone>
+<sone id="l62_s19" lemma="aga" liik="Konj">aga</sone> <sone id="l62_s20" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone>
+<sone id="l62_s20" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone> <sone id="l62_s21" lemma="olema" liik="Va" vorm="pers.ind.pr.neg.">pole</sone>
+<sone id="l120_s46" lemma="risti+ema" liik="S" vorm="sg.nom.">risti+ema</sone> <sone id="l120_s48" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone>
+<sone id="l120_s48" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone> <sone id="l120_s49" lemma="sealt" liik="ProAdv">sääld</sone>
+<sone id="l124_s25" lemma="ka" liik="Par">kaa</sone> <sone id="l124_s27" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone>
+<sone id="l124_s27" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone> <sone id="l124_s28" lemma="see" liik="ProS" vorm="sg.gen.">sene</sone>
+<sone id="l159_s52" lemma="olema" liik="V" vorm="pers.ind.ipf.pl.3.">olid</sone> <sone id="l159_s54" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone>
+<sone id="l159_s54" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone> <sone id="l159_s55" lemma="need" liik="ProS" vorm="pl.part.">neid</sone>
+<sone id="l159_s60" lemma="ega" liik="Konj">äga</sone> <sone id="l159_s61" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone>
+<sone id="l159_s61" lemma="kes" liik="Intr" vorm="sg.nom.">kess</sone> <sone id="l159_s62" lemma="need" liik="ProS" vorm="pl.part.">neid</sone>
+<sone id="l178_s81" lemma="olema" liik="V" vorm="pers.ind.ipf.sg.3.">oli</sone> <sone id="l178_s82" lemma="kes" liik="Intr" vorm="sg.ad.">kenel</sone>
+<sone id="l178_s82" lemma="kes" liik="Intr" vorm="sg.ad.">kenel</sone> <sone id="l178_s83" lemma="olema" liik="V" vorm="pers.ind.ipf.pl.3.">oli</sone>
+<sone id="l224_s106" lemma="ja" liik="Konj">ja</sone> <sone id="l224_s107" lemma="kes" liik="Intr" vorm="sg.ad.">kinnel</sone>
+<sone id="l224_s107" lemma="kes" liik="Intr" vorm="sg.ad.">kinnel</sone> <sone id="l224_s108" lemma="olema" liik="V" vorm="pers.ind.ipf.sg.3.">oli</sone>
+<sone id="l22_s35" lemma="aga" liik="Konj">aga</sone> <sone id="l22_s36" lemma="kes" liik="Intr" vorm="sg.ad.">kinnel</sone>
+<sone id="l22_s36" lemma="kes" liik="Intr" vorm="sg.ad.">kinnel</sone> <sone id="l22_s38" lemma="see" liik="ProS" vorm="sg.ad.">sennel</sone>
+<sone id="l78_s35" lemma="saatma" liik="V" vorm="inf.">`saatta</sone> <sone id="l78_s38" lemma="kes" liik="ProS" vorm="sg.ad.">kenel</sone>
+<sone id="l78_s38" lemma="kes" liik="ProS" vorm="sg.ad.">kenel</sone> <sone id="l78_s39" lemma="olema" liik="V" vorm="pers.ind.pr.sg.3.">on</sone>
+<sone id="l4_s29" lemma="auk" liik="S" vorm="sg.nom.">ouk</sone> <sone id="l4_s30" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone>
+<sone id="l4_s30" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone> <sone id="l4_s31" lemma="olema" liik="V" vorm="pers.ind.pr.sg.3.">on</sone>
+<sone id="l14_s11" lemma="ja" liik="Konj">ja</sone> <sone id="l14_s13" lemma="kes" liik="Intr" vorm="sg.ad.">kinnel</sone>
+<sone id="l14_s13" lemma="kes" liik="Intr" vorm="sg.ad.">kinnel</sone> <sone id="l14_s15" lemma="esiti" liik="Adv">esidi</sone>
+<sone id="l72_s201" lemma="tema" liik="ProS" vorm="sg.part.">tad</sone> <sone id="l72_s202" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone>
+<sone id="l72_s202" lemma="kes" liik="Intr" vorm="sg.nom.">kiss</sone> <sone id="l72_s203" lemma="sedasi" liik="ProAdv">sedasi</sone>
+<sone id="l90_s13" lemma="siis" liik="ProAdv">siss</sone> <sone id="l90_s15" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone>
+<sone id="l90_s15" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone> <sone id="l90_s16" lemma="keegi" liik="ProS" vorm="sg.ad.">kinnelgid</sone>
+<sone id="l98_s4" lemma="selts" liik="S" tahendus="sort, liik" vorm="sg.part.">`seltsi</sone> <sone id="l98_s6" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l98_s6" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l98_s8" lemma="vahel" liik="Adv">vahel</sone>
+<sone id="l104_s6" lemma="üks+kõik" liik="Adv">üks+keik</sone> <sone id="l104_s8" lemma="kes" liik="Intr" vorm="sg.ad.">kennel</sone>
+<sone id="l104_s8" lemma="kes" liik="Intr" vorm="sg.ad.">kennel</sone> <sone id="l104_s9" lemma="olema" liik="V" vorm="pers.ind.ipf.sg.3.">oli</sone>
+<sone id="l106_s1" lemma="aga" liik="Konj">aga</sone> <sone id="l106_s2" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone>
+<sone id="l106_s2" lemma="kes" liik="Intr" vorm="sg.nom.">kis</sone> <sone id="l106_s3" lemma="tegema" liik="V" vorm="pers.ind.ipf.sg.3.">tegi</sone>
+<sone id="l106_s8" lemma="tegema" liik="V" vorm="pers.ind.ipf.sg.3.">tegi</sone> <sone id="l106_s9" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l106_s9" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l106_s10" lemma="kas" liik="Intr">kas</sone>
+<sone id="l120_s58" lemma="aga" liik="Konj">aga</sone> <sone id="l120_s59" lemma="kes" liik="Intr" vorm="sg.ad.">kissel</sone>
+<sone id="l120_s59" lemma="kes" liik="Intr" vorm="sg.ad.">kissel</sone> <sone id="l120_s60" lemma="kaks" liik="Nump" vorm="sg.nom.">kaks</sone>
+<sone id="l128_s1" lemma="ja" liik="Konj">ja</sone> <sone id="l128_s2" lemma="kes" liik="Intr" vorm="sg.nom.">kenn</sone>
+<sone id="l128_s2" lemma="kes" liik="Intr" vorm="sg.nom.">kenn</sone> <sone id="l128_s3" lemma="ka" liik="Par">kaa</sone>
+<sone id="l3_s202" lemma="see" liik="ProS" vorm="sg.gen.">selle</sone> <sone id="l3_s203" lemma="kes" liik="Intr" vorm="sg.gen.">kelle</sone>
+<sone id="l3_s203" lemma="kes" liik="Intr" vorm="sg.gen.">kelle</sone> <sone id="l3_s204" lemma="põld" liik="S" vorm="pl.nom.">pöllud</sone>
+<sone id="l8_s107" lemma="kõik" liik="ProS" vorm="pl.nom.">köik</sone> <sone id="l8_s108" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l8_s108" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l8_s109" lemma="siin" liik="ProAdv">sii</sone>
+<sone id="l30_s69" lemma="olema" liik="V" vorm="pers.ind.pr.neg.">pole</sone> <sone id="l30_s71" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone>
+<sone id="l30_s71" lemma="kes" liik="Intr" vorm="sg.nom.">kes</sone> <sone id="l30_s72" lemma="passima" liik="V" vorm="pers.ind.ipf.sg.3.">`passis</sone>
